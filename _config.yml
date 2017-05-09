@@ -20,6 +20,11 @@ permalink: "/blog/:title"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
+# Maps
+maps:
+  google:
+    api_key: "AIzaSyCnW1-rYJq9ipB52U9XUJwTM7kIJCBd2ac"
+
 # Organizer Info
 organizerName: "UPB Cochabamba"
 organizerAlternateName: "Universidad Privada de Bolivia"
