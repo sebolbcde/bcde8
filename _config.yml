@@ -1,0 +1,291 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "BCDE 2017"
+email: "sebol.bcde.2017@gmail.com"
+description: "Bolivian Conference of Development Economics"
+baseurl: "/zeppelin"
+url: "https://sebolbcde.github.io"
+permalink: "/blog/:title"
+# googleAnalyticsTrackingId: "UA-43643469-5"
+# googleAnalyticsSiteUrl: "gdg-x.github.io"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "UPB Cochabamba"
+organizerAlternateName: "Universidad Privada de Bolivia"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "sebol.bcde.2017@gmail.com"
+organizerLogo: "/img/seo/logo-upb-small.png"
+organizerLink: "http://lviv.gdg.org.ua/"
+
+# Head
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+twitterAccount: "@BCDE2017"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "https://bit.ly/dfua-c4p"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/", text: "Blog"}
+ # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/team/", text: "Team"}
+ - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/workshops/", text: "Workshops"}
+# bottomNavigationLinks:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+rightNavigationButtons:
+ - {link: "http://bit.ly/2q30PuF", text: "Submit your paper"}
+
+# Hero Block
+heroImage: "hero_abstract_4.jpg"
+heroTitle: "Bolivian Conference of Development Economics Universidad Privada Boliviana  <typeout>"
+eventDate: "Cochabamba-Bolivia | October 26 - October 27 | 2017"
+# typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
+# typeoutFallback: "Universidad Privada Boliviana"
+heroButtons:
+ - {link: "http://bit.ly/2q30PuF", text: "Submit Your Paper"}
+ # - {permalink: "/#tickets", text: "Registration"}
+
+# About Block
+aboutTitle: "About BCDE 2017"
+aboutBlock:
+ - {title: "Keynotes", image: "conference.jpg", text: "The largest academic conference in development economics in Bolivia." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience. Learn about recent tools and methodologies" }
+ - {title: "Parallel Sessions", image: "hackathon.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere: students, professionals, policy makers"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of academic and policy discussion"}
+ - {count: "30", specialCharacter: "+", info: "researchers", detail: "from local and international universities and international organizations"}
+ - {count: "4", specialCharacter: "+", info: "Parallel Sessions", detail: "with presentations and full interaction with participants"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 2
+rockstarSpeakersTitle: "Keynote speakers"
+rockstarSpeakersButtonText: "Learn more about our speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "UPB Cochabamba Campus"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "Av Juan Pablo II"
+eventAddressLocality: "Cochabamba"
+eventAddressLocalityRegion: "Cochabamba"
+eventPostalCode: "79000"
+eventAddressCountry: "Bolivia"
+eventStartTime: "2017-10-26T10:00"
+eventDoorTime: "09:00"
+eventEndTime: "2017-10-28T20:00"
+eventPlaceCoordinates: "-17.396416, -66.218217"
+mapCenterCoordinates: "-17.396416, -66.218217"
+mapMobileCenterCoordinates: "-17.396416, -66.218217"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_upb_0.jpg"
+venueSmallImage1: "venue_upb_1.jpg"
+venueSmallImage2: "venue_upb_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "UPB Campus Cochabamba"
+venueFeatures: ["Modern campus", "Conference rooms equiped with HD projectors", "Located 20 min away from hotels"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "bcde2017"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Registration schedule"
+ticketsInfo: "Registration grant access to all conference sections and coffee brakes. Accommodation is NOT included in the registration fee."
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "360"
+  priceCurrency: "BOP"
+  # ticketsNumber: "150"
+  ribbon: "-20%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "pre-registration"
+  ticketContentList: ["Full access to all sessions", "Invitation to conference lunch and dinner", "Free refreshments during the conference"]
+  validFrom: "2017-06-25T10:00"
+  validThrough: "2017-09-25T23:59"
+ -
+  name: "Last Chance"
+  price: "450"
+  priceCurrency: "BOP"
+  # ticketsNumber: "100"
+  # ribbon: "'"
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Full access to all sessions", "Invitation to conference lunch and dinner", "Free refreshments during the conference"]
+  validFrom: "2017-09-26T00:00"
+  validThrough: "2017-10-26T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: "250"
+  priceCurrency: "BOP"
+  # ticketsNumber: "50"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "pre-regristration"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Full access to all sessions", "-25% for pre-conference workshops", "Free refreshments during the conference"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+  # soldOut: true
+  # soldOutText: "pre-registration open"
+
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
+
+# Speakers List Block
+showSessions: false
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "-17.396416, -66.218217"
+logisticsMapMobileCenterCoordinates: "-17.396416, -66.218217"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Cochabamba"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Registration"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Attendance Details"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
+# Hackathon
+hackathonTitle: "Pre-conference Workshops"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Our Workshops"
+hackathonRows:
+ - {title: "Solution and Estimation of DSGE Models", image: "macro_workshop.png", details: " We will cover solution algorithms for dynamic macroeconomic models. High order local approximations and global solutions methods. Estimation using Markov Chain Monte Carlo Methods and Sequential Monte Carlo Methods. The workshop will be hands on using both Julia and Matlab."}
+ - {title: "Methods for Applied Microeconomics", image: "micro_workshop_small.png", details: "Applied microeconometric techniques for policy analyisis. Difference-in-Difference, score matching, structural estimation."}
+ # - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Workshop Instructors"
+
+# Hackathon Prizes Block
+# prizesTitle: "Prizes"
+# prizes:
+#  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+#  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+#  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "UPB Cochabamba Campus"
+hackathonLocationLink: "http://communa.net.ua/"
+hackathonStreetAddress: "Av Juan Pablo II"
+hackathonAddressLocality: "Cochabamba"
+hackathonAddressLocalityRegion: "Cochabamba"
+hackathonPostalCode: "00000"
+hackathonAddressCountry: "Bolivia"
+hackathonTimeTitle: "BCDE Workshops 2017"
+hackathonStartTime: "2017-10-25T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2017-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "-17.396416, -66.218217"
+hackathonMapCenterCoordinates: "-17.396416, -66.218217"
+hackathonMapMobileCenterCoordinates: "-17.396416, -66.218217"
