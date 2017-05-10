@@ -3,6 +3,7 @@ layout: post
 title:  "Call for Papers"
 date:   2017-05-09 09:00:00
 isStaticPost: false
+image: view_call_1.jpg
 ---
 We are delighted to announce that the 9th Bolivian Conference on Development Economics will be held at the Campus of Universidad Privada Boliviana (UPB) in Cochabamba, Bolivia, on October 26th and 27th, 2017. This conference is jointly organized by the Institute for Advanced Development Studies (INESAD), the Society of Bolivian Economists (SEBOL), Universidad Privada Boliviana (UPB), and the Bolivian Academy of Economic Sciences (ABCE).
 
@@ -11,7 +12,7 @@ This year BCDE will be hosted in the city of Cochabamba at Universidad Privada d
 
 #### Keynote Speakers
 
-We are very happy to have two distinguished speakers delivering the the keynote lectures:
+We are very happy to have two distinguished speakers delivering the keynote lectures:
 
 * Sara Farley (CEO, Global Knowledge Initiative)  
 * Carlos Vegh (Chief Economist for Latin America, World Bank)
@@ -74,9 +75,9 @@ __Google I/O 2014__
 #### Program committee
 
 * Joaquin Morales (Universidad Privada Boliviana)
-* Beatriz Muriel (INESAD)
+* Pablo Selaya (INESAD)
 * Pablo Cuba Borda (Federal Reserve Board)
-* Luis Castro (Universidad Privada Boliviana)
+* Marcelo Cardona (Universidad Privada Boliviana)
 
 
 #### Please submit your papers [here](http://bit.ly/2q30PuF).

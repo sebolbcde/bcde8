@@ -21,9 +21,7 @@ permalink: "/blog/:title"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Maps
-maps:
-  google:
-    api_key: "AIzaSyCnW1-rYJq9ipB52U9XUJwTM7kIJCBd2ac"
+google_maps_javascript_api_key: "AIzaSyCnW1-rYJq9ipB52U9XUJwTM7kIJCBd2ac"
 
 # Organizer Info
 organizerName: "UPB Cochabamba"
@@ -54,6 +52,7 @@ navigationLinks:
  # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/workshops/", text: "Workshops"}
+ - {permalink: "/blog/call-for-papers", text: "Call for papers"}
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -72,9 +71,9 @@ heroButtons:
 # About Block
 aboutTitle: "About BCDE 2017"
 aboutBlock:
- - {title: "Keynotes", image: "conference.jpg", text: "The largest academic conference in development economics in Bolivia." }
+ - {title: "Keynotes", image: "keynotes.jpg", text: "The largest academic conference in development economics in Bolivia." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience. Learn about recent tools and methodologies" }
- - {title: "Parallel Sessions", image: "hackathon.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations" }
+ - {title: "Parallel Sessions", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -187,12 +186,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.sebol.org.bo", text: "sebol.org.bo"}
+   - {link: "https://www.upb.edu", text: "UPB"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:sebol.bcde@gmail.com", text: "sebol.bcde@gmail.com"}
  -
   title: "FAQ"
   links:
@@ -200,8 +199,8 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+# discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: false
