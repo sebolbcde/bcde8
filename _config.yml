@@ -32,7 +32,7 @@ organizerLogo: "/img/seo/logo-upb-small.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, bcde, devecon, sebol, upb, cochabamba, bolivia"
 twitterAccount: "@BCDE2017"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -56,7 +56,7 @@ navigationLinks:
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/2q30PuF", text: "Submit your paper"}
+ - {link: "/blog/call-for-papers", text: "Submit your paper"}
 
 # Hero Block
 heroImage: "hero_abstract_4.jpg"
@@ -65,7 +65,7 @@ eventDate: "Cochabamba-Bolivia | October 26 - October 27 | 2017"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
 # typeoutFallback: "Universidad Privada Boliviana"
 heroButtons:
- - {link: "http://bit.ly/2q30PuF", text: "Submit Your Paper"}
+ - {link: "/blog/call-for-papers", text: "Submit Your Paper"}
  # - {permalink: "/#tickets", text: "Registration"}
 
 # About Block
