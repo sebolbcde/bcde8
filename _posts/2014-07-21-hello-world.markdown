@@ -25,7 +25,7 @@ More details and maps about our facilities will be posted soon.
 #### Information
 
 * **Attendance**: we're expecting over 300 attendees.
-* **Date**: 24-25 of October.
+* **Date**: 26-27 of October.
 
 Our keynotes speakers will be:
 

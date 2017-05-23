@@ -251,8 +251,8 @@ directionDetailsWideCards:
    -
     title: "Venue Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "ADD UPB DETAIL 1"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "ADD UPB DETAIL 2"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "UPB Facilities"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "UPB Campus Map"}
 
 # Hackathon
 hackathonTitle: "Pre-conference Workshops"
