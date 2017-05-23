@@ -1,8 +1,8 @@
 -
   id: 3
   name: "Carlos"
-  surname: "Vegh"
-  company: "World Bank"
+  surname: "Végh"
+  company: "World Bank - Chief Economist for Latin America"
   title: "Chief Economist"
   bio: "<p>is the World Bank Chief Economist for Latin America and the Caribbean. He was the Fred H. Sanderson Professor of International Economics at the Johns Hopkins School of Advanced International Studies (SAIS) and a Research Associate at the National Bureau of Economic Research (NBER). He also served as Professor of Economics at UCLA and at the University of Maryland.</p>"
   thumbnailUrl: CarlosVegh.jpg
@@ -13,7 +13,7 @@
   id: 4
   name: "Sara"
   surname: "Farley"
-  company: "Global Knowledge Initiative"
+  company: "Global Knowledge Initiative - Chief Operating Officer"
   title: "Chief Operating Officer"
   bio: '<p>Sara is a co-founder of GKI.  She built GKI from a concept to an organization serving more than 60 countries. Prior to founding GKI, Sara spent a decade as an innovation strategist for the World Bank and other donor and development organizations, including UNIDO and The Rockefeller Foundation.</p>'
   thumbnailUrl: SaraFarley.jpg
@@ -22,21 +22,21 @@
   #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
   #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
   #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# -
-#   id: 5
-#   name: "Mateusz"
-#   surname: "Herych"
-#   company: "Base CRM, GDG Krakow"
-#   title: "Software Engineer"
-#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-#   # thumbnailUrl: MateuszHerych.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#     - {name: "twitter", link: "https://twitter.com/mherych"}
+-
+  id: 5
+  name: "Mateusz"
+  surname: "Herych"
+  company: "Base CRM, GDG Krakow"
+  title: "Software Engineer"
+  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+  # thumbnailUrl: MateuszHerych.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/mherych"}
 # -
 #   id: 6
 #   name: "Roman"

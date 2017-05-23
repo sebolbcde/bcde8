@@ -1,11 +1,12 @@
 -
   group: "Main organizer"
   elements:
-    - {name: "UPB", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "logo_upb.svg"}
-    - {name: "SEBOL", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "logo_sebol.svg"}
--
-  group: "Co-organizers"
-  elements:
-    - {name: "INESAD", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "logo_inesad.svg"}
+    - {name: "UPB", description: "Universidad Privada de Bolivia", link: "http://lviv.gdg.org.ua", imageUrl: "logo_upb.svg"}
+    - {name: "SEBOL", description: "Sociedad de Economistas de Bolivia", link: "http://lviv.gdg.org.ua", imageUrl: "logo_sebol.svg"}
+    - {name: "INESAD", description: "Instituto de Estudios Avanzados de Desarrollo", link: "http://kyiv.gdg.org.ua", imageUrl: "logo_inesad.svg"}
+# -
+#   group: "Co-organizers"
+#   elements:
+#     - {name: "INESAD", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "logo_inesad.svg"}
     # - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
     # - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}

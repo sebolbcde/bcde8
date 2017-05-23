@@ -6,8 +6,28 @@
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
-            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizers</h4>
-            {% for teamMember in site.data.team %} {% if teamMember.team != null %}
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Nuestros objetivos</h4>
+
+            <!-- About Hackathon Section -->
+                    <div class="col-md-8 col-md-offset-2">
+                        {% for row in site.aboutUsRows %}
+                        {% assign check = forloop.index0 | modulo:2 %}
+                        <!-- <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12"> -->
+                                <!-- <h4>{{ row.title }}</h4> -->
+                                <p>{{ row.details }}</p>
+                            <!-- <div class="hackathon-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
+                                <img class="img-responsive" src="{{ site.baseurl }}/img/hackathon/{{ row.image }}" alt="Hackathon">
+                            </div>
+                            <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
+                                <h4>{{ row.title }}</h4>
+                                <p>{{ row.details }}</p>
+                            </div> -->
+                        </div>
+                        {% endfor %}
+                    </div>
+
+
+            <!-- {% for teamMember in site.data.team %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
@@ -29,11 +49,11 @@
                     </figure>
                 </div>
             </div>
-            {% endif %} {% endfor %}
+            {% endif %} {% endfor %} -->
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Program committee</h4>
-            {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
+            <!-- {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
@@ -55,7 +75,7 @@
                     </figure>
                 </div>
             </div>
-            {% endif %} {% endfor %}
+            {% endif %} {% endfor %} -->
         </div>
     </div>
 </section>

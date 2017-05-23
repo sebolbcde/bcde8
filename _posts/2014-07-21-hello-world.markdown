@@ -1,33 +1,36 @@
 ---
 layout: post
-title:  "Welcome to BCDE 2017!"
+title:  "Welcome to BCDE8"
 date:   2017-05-09 08:00:00
 image: workshop_1.jpg
 isStaticPost: false
 ---
 
-We're very excited about BCDE 2017, not only because it will take place in a great city,
+We're very excited about BCDE8, not only because it will take place in a great city,
 but also because our team are putting together a great program and contacting outstanding
 speakers to join us in Cochabamba.
 
-[ADD SOME BACKGROUND TEXT]
+#### About Cochabamba
 
-<!-- This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.
+Cochabamba’s metropolitan area is the third largest region in Bolivia in terms of population (1.14 million). Located at the heart of Bolivian valleys, it enjoys a privileged weather all year with average temperatures between 13 °C - 19 °C. In October, you should expect warm spring weather.
 
-So should you also be excited? Well yes... and here's why!
+Cochabamba is well known for having an exquisite traditional gastronomy, as well as excellent health and education services. Its vibrant and fast-growing economic activity has made the capital municipality of Cochabamba the highest-ranked region in Bolivia in terms of UNDP’s HDI, according to their last report at the municipal level.
 
-* **Attendance**: we're expecting over 350 attendees
-* **Topic**: more than 48 hours of pure Google technologies
-* **Date**: 24-25 of October, expect hackathon and workshops on a first day and conference on the second
-* **Venue**: Kinopalace Cinema - for a first time we'll make technical event in real cinema directly in the heart of the ancient city of Lviv
-* **Speakers**: we're in the process of finalising the list of speakers
+#### About UPB
 
-but we've already secured a first batch of experts:
+Universidad Privada Boliviana [(UPB)](http://www.upb.edu/en) is thrilled to host this year’s BCDE at its main campus located in the city Cochabamba. [(UPB)](http://www.upb.edu/en) is a non-profit educational foundation founded in 1992 and sponsored ever-since by the Bolivian Confederation of Private Entrepreneurs. By combining tertiary education services at graduate and undergraduate levels with research activities in the fields of economics, finance and engineering following the highest international standards, [(UPB)](http://www.upb.edu/en) aims at becoming one of the top-ranked research-universities in the region.
 
-* **Dawid Ostrowski** - Developer Relation from Google, who excited about cloud technologies<br>
-* **Mateusz Herych** - Android GDE and GDG organizer from Krakow<br>
-* **Dmytro Danylyk** - developer, blogger, speaker, author of open source 1000+ star libraries <br>
-* **Roman Mazur** - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days<br>
+More details and maps about our facilities will be posted soon.
 
+#### Information
 
-More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival. -->
+* **Attendance**: we're expecting over 300 attendees.
+* **Date**: 24-25 of October.
+
+Our keynotes speakers will be:
+
+* **Sara Farley** - Global Knowledge Initiative - Chief Operating Officer<br>
+* **Carlos Végh** - World Bank - Chief Economist for Latin America<br>
+<br>
+
+More details about speakers, BCDE8, and logistics will appear in subsequent posts, in the meantime like us on [Facebook](https://facebook.com/SEBOL), follow on [Twitter](https://twitter.com/intent/user?screen_name=BCDE8), or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any important updates about the conference. -->

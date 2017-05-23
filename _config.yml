@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "BCDE 2017"
+title: "BCDE8"
 email: "sebol.bcde.2017@gmail.com"
 description: "Bolivian Conference of Development Economics"
 # baseurl: "/zeppelin"
@@ -18,10 +18,10 @@ url: "https://sebolbcde.github.io"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Maps
-google_maps_javascript_api_key: "AIzaSyDy_DAYgfh_AdZJLISWA_RhR518I40DACQ"
+google_maps_javascript_api_key: AIzaSyDy_DAYgfh_AdZJLISWA_RhR518I40DACQ
 
 # Organizer Info
 organizerName: "UPB Cochabamba"
@@ -32,7 +32,7 @@ organizerLogo: "/img/seo/logo-upb-small.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, bcde, devecon, sebol, upb, cochabamba, bolivia"
+metaKeywords: "event, bcde, sebol, upb, cochabamba, bolivia"
 twitterAccount: "@BCDE2017"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -46,22 +46,24 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "News"}
  # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/workshops/", text: "Workshops"}
+ # - {permalink: "/workshops/", text: "Workshops"}
  - {permalink: "/blog/call-for-papers", text: "Call for papers"}
+ - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/team/", text: "About Sebol"}
+
 rightNavigationButtons:
  - {link: "/blog/call-for-papers", text: "Submit your paper"}
 
 # Hero Block
-heroImage: "hero_abstract_4.jpg"
-heroTitle: "Bolivian Conference of Development Economics Universidad Privada Boliviana  <typeout>"
-eventDate: "Cochabamba-Bolivia | October 26 - October 27 | 2017"
+heroImage: "hero_cover_5.jpg"
+heroTitle: "8th Bolivian Conference of Development Economics Universidad Privada Boliviana  <typeout>"
+eventDate: "Cochabamba-Bolivia | October 26 - 27 | 2017"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
 # typeoutFallback: "Universidad Privada Boliviana"
 heroButtons:
@@ -69,19 +71,19 @@ heroButtons:
  # - {permalink: "/#tickets", text: "Registration"}
 
 # About Block
-aboutTitle: "About BCDE 2017"
+aboutTitle: "About BCDE8"
 aboutBlock:
  - {title: "Keynotes", image: "keynotes.jpg", text: "The largest academic conference in development economics in Bolivia." }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience. Learn about recent tools and methodologies" }
- - {title: "Parallel Sessions", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations" }
+ - {title: "Policy roundtable", image: "roundtable.jpg", text: "Discuss current events affecting the region and interact with leading experts and academics about views and solutions." }
+ - {title: "Parallel sessions", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "hero_abstract_4.jpg"
 statisticBlock:
- - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere: students, professionals, policy makers"}
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere: students, professionals, policy makers"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of academic and policy discussion"}
  - {count: "30", specialCharacter: "+", info: "researchers", detail: "from local and international universities and international organizations"}
- - {count: "4", specialCharacter: "+", info: "Parallel Sessions", detail: "with presentations and full interaction with participants"}
+ - {count: "4", specialCharacter: "+", info: "parallel sessions", detail: "with presentations and full interaction with participants"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -120,7 +122,7 @@ venueFeatures: ["Modern campus", "Conference rooms equiped with HD projectors", 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "bcde2017"
+twitterHashTag: "bcde8"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -136,57 +138,58 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Registration schedule"
-ticketsInfo: "Registration grant access to all conference sections and coffee brakes. Accommodation is NOT included in the registration fee."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "360"
-  priceCurrency: "BOP"
-  # ticketsNumber: "150"
-  ribbon: "-20%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "pre-registration"
-  ticketContentList: ["Full access to all sessions", "Invitation to conference lunch and dinner", "Free refreshments during the conference"]
-  validFrom: "2017-06-25T10:00"
-  validThrough: "2017-09-25T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "BOP"
-  # ticketsNumber: "100"
-  # ribbon: "'"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Full access to all sessions", "Invitation to conference lunch and dinner", "Free refreshments during the conference"]
-  validFrom: "2017-09-26T00:00"
-  validThrough: "2017-10-26T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "250"
-  priceCurrency: "BOP"
-  # ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "pre-regristration"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Full access to all sessions", "-25% for pre-conference workshops", "Free refreshments during the conference"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  # soldOut: true
-  # soldOutText: "pre-registration open"
+# ticketsInfo: "Registration grant access to all conference sections and coffee brakes. Accommodation is NOT included in the registration fee."
+showTickets: false
+# ticketsOffers:
+#  -
+#   name: "Early Bird"
+#   price: "360"
+#   priceCurrency: "BOP"
+#   # ticketsNumber: "150"
+#   ribbon: "-20%"
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "pre-registration"
+#   ticketContentList: ["Full access to all sessions", "Invitation to conference lunch and dinner", "Free refreshments during the conference"]
+#   validFrom: "2017-06-25T10:00"
+#   validThrough: "2017-09-25T23:59"
+#  -
+#   name: "Last Chance"
+#   price: "450"
+#   priceCurrency: "BOP"
+#   # ticketsNumber: "100"
+#   # ribbon: "'"
+#   featured: true
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Full access to all sessions", "Invitation to conference lunch and dinner", "Free refreshments during the conference"]
+#   validFrom: "2017-09-26T00:00"
+#   validThrough: "2017-10-26T23:59"
+#   disabled: true
+#  -
+#   name: "Student"
+#   price: "250"
+#   priceCurrency: "BOP"
+#   # ticketsNumber: "50"
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "pre-regristration"
+#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#   ticketContentList: ["Full access to all sessions", "-25% for pre-conference workshops", "Free refreshments during the conference"]
+#   validFrom: "2014-08-20T10:00"
+#   validThrough: "2014-10-23T23:59"
+#   # soldOut: true
+#   # soldOutText: "pre-registration open"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=BCDE8", icon: "twitter"}
+ - {link: "https://facebook.com/SEBOL", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.sebol.org.bo", text: "sebol.org.bo"}
+   - {link: "http://www.sebol.org.bo", text: "SEBOL"}
    - {link: "https://www.upb.edu", text: "UPB"}
  -
   title: "Contacts"
@@ -206,8 +209,11 @@ blogCommentsEnabled: false
 showSessions: false
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "About SEBOL"
+aboutUs: "La Sociedad de Economistas de Bolivia (SEBOL) es una sociedad científica sin fines de lucro, legalmente establecida en el Estado Plurinacional de Bolivia. Tiene como actividad principal el fomento de los estudios e investigaciones, tanto de carácter teórico como empírico, que conduzcan al progreso, difusión y divulgación de la ciencia económica, así como cualquier otra iniciativa tendiente al máximo aprovechamiento de la ciencia económica en beneficio de la colectividad."
+aboutUsRows:
+ - {details: "Promover y publicar investigación científica en economía. En particular, trabajos que generen lecciones aplicables a la economía boliviana."}
+ - {details: "Promover el libre intercambio de ideas en todas las áreas de la ciencia económica. (La SEBOL no tomará posturas políticas ni forzará a sus miembros a seguir líneas especificas de pensamiento económico.)"}
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -225,9 +231,9 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Cochabamba"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Airport", information: 'Jorge Wilstermann International Airport is conveniently located 6 Km. away from downtown Cochabamba. To-From airport information is available at <a href="http://www.sabsa.aero/aeropuerto-jorge-wilsterman/">airport website</a>.'}
+ - {title: "Public Transit", information: 'Cochabamba offers a very wide network of public transportation operated by transport federations regulated by the regional government. Several radio-cab companies offer safe and timely private transport services at affordable prices.'}
+ - {title: "Hotels", information: 'BCDE has arranged a preferential accommodation service with some of the best hotels in Cochabamba.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -235,28 +241,22 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://granhotelcochabamba.com.bo", text: "Gran Hotel Cochabamba"}
+     - {link: "http://www.hotelregina.com-bolivia.com", text: "Apart Hotel Regina"}
    -
-    title: "Registration"
+    title: "Restaurants"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "ADD RES 1"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "ADD RES 2"}
    -
-    title: "Attendance Details"
+    title: "Venue Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "ADD UPB DETAIL 1"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "ADD UPB DETAIL 2"}
 
 # Hackathon
 hackathonTitle: "Pre-conference Workshops"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Our Workshops"
