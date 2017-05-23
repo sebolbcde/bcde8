@@ -7,7 +7,7 @@ isStaticPost: false
 ---
 We are delighted to announce that the 8th Bolivian Conference on Development Economics (BCDE8) will take place in Cochabamba, Bolivia, on Thursday October 26 and Friday October 27, 2017. The conference this year is jointly organized by the Institute for Advanced Development Studies (INESAD), the Society of Bolivian Economists (SEBOL), Universidad Privada Boliviana (UPB), and the Bolivian Academy of Economic Science (ABCE).
 
-The conference aims at bringing together local and international scholars for the exchange of ideas and discussion of recent results within theoretical and applied development economics research. We particularly encourage female researchers and Bolivian researchers to submit papers on all topics within the field of development economics. The conference features keynote speakers Sara Farley (Global Knowledge Initiative) and Carlos Vegh (World Bank).
+The conference aims at bringing together local and international scholars for the exchange of ideas and discussion of recent results within theoretical and applied development economics research. We particularly encourage female researchers and Bolivian researchers to submit papers on all topics within the field of development economics. The conference features keynote speakers Sara Farley (Global Knowledge Initiative) and Carlos Végh (World Bank).
 
 #### Venue
 BCDE8 will take place in the city of Cochabamba, Bolivia, at the main campus of Universidad Privada Boliviana (UPB).
