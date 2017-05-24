@@ -61,9 +61,9 @@ rightNavigationButtons:
  - {link: "/blog/call-for-papers", text: "Submit your paper"}
 
 # Hero Block
-heroImage: "hero_cover_5.jpg"
-heroTitle: "8th Bolivian Conference of Development Economics Universidad Privada Boliviana  <typeout>"
-eventDate: "Cochabamba-Bolivia | October 26 - 27 | 2017"
+heroImage: "hero_cover_6.jpg"
+# heroTitle: "8th Bolivian Conference of Development Economics Universidad Privada Boliviana  <typeout>"
+# eventDate: "Cochabamba-Bolivia | October 26 - 27 | 2017"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
 # typeoutFallback: "Universidad Privada Boliviana"
 heroButtons:
@@ -228,7 +228,7 @@ logisticsMapMobileCenterCoordinates: "-17.396416, -66.218217"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
+directionDetailsImage: "view_cbb_5.jpg"
 directionDetailsTitle: "Get around Cochabamba"
 directionDetailsCards:
  - {title: "Airport", information: 'Jorge Wilstermann International Airport is conveniently located 6 Km. away from downtown Cochabamba. To-From airport information is available at <a href="http://www.sabsa.aero/aeropuerto-jorge-wilsterman/">airport website</a>.'}
