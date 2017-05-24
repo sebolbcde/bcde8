@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "BCDE8"
 email: "sebol.bcde.2017@gmail.com"
 description: "Bolivian Conference of Development Economics"
-# baseurl: "/zeppelin"
+baseurl: "/bcde8"
 url: "https://sebolbcde.github.io"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
@@ -24,23 +24,23 @@ permalink: "/blog/:title"
 google_maps_javascript_api_key: AIzaSyDy_DAYgfh_AdZJLISWA_RhR518I40DACQ
 
 # Organizer Info
-organizerName: "UPB Cochabamba"
-organizerAlternateName: "Universidad Privada de Bolivia"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerName: "SEBOL"
+organizerAlternateName: "Sociedad de Economistas de Bolivia"
+organizerDescription: ""
 organizerEmail: "sebol.bcde.2017@gmail.com"
 organizerLogo: "/img/seo/logo-upb-small.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.sebol.org"
 
 # Head
 metaKeywords: "event, bcde, sebol, upb, cochabamba, bolivia"
-twitterAccount: "@BCDE2017"
+twitterAccount: "@SEBOLBolivia"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -97,7 +97,7 @@ rockstarSpeakersButtonText: "Learn more about our speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "UPB Cochabamba Campus"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "http://www.upb.edu/en/"
 eventStreetAddress: "Av Juan Pablo II"
 eventAddressLocality: "Cochabamba"
 eventAddressLocalityRegion: "Cochabamba"
@@ -122,7 +122,7 @@ venueFeatures: ["Modern campus", "Conference rooms equiped with HD projectors", 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "bcde8"
+twitterHashTag: "SEBOLBolivia"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -134,7 +134,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around end of August. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Registration schedule"
@@ -182,8 +182,8 @@ showTickets: false
 # Footer
 socialLinks:
  # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=BCDE8", icon: "twitter"}
- - {link: "https://facebook.com/SEBOL", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=SEBOLBolivia", icon: "twitter"}
+ - {link: "https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -239,19 +239,19 @@ directionDetailsWideCards:
   title: "Questions?"
   subCards:
    -
-    title: "Hotels"
+    title: "Lodging"
     links:
-     - {link: "http://granhotelcochabamba.com.bo", text: "Gran Hotel Cochabamba"}
-     - {link: "http://www.hotelregina.com-bolivia.com", text: "Apart Hotel Regina"}
+     - {link: "https://www.tripadvisor.com/Hotels-g297315-Cochabamba_Cochabamba_Department-Hotels.html", text: "Hotels"}
+     - {link: "https://www.airbnb.com/s/Cochabamba--Bolivia/homes?allow_override%5B%5D=&s_tag=jQAawCb1", text: "AIRBNB"}
    -
-    title: "Restaurants"
+    title: "Recommended"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "ADD RES 1"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "ADD RES 2"}
+     - {link: "https://www.lonelyplanet.com/bolivia/cochabamba/restaurants/a/poi-eat/1316004", text: "Restaurants"}
+     - {link: "https://www.tripadvisor.com/Attractions-g297315-Activities-Cochabamba_Cochabamba_Department.html", text: "Things to do"}
    -
     title: "Venue Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "UPB Facilities"}
+     - {link: "http://www.upb.edu/en/", text: "UPB Facilities"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "UPB Campus Map"}
 
 # Hackathon

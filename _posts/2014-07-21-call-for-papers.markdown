@@ -22,6 +22,8 @@ Information about the city and logistics is available [here](/logistics).
 #### What to expect?
 The conference aims at bringing together local and international scholars and analysts for exchange of ideas and discussion of recent results related to development economics research.
 
+Submissions from female researchers and students are especially encouraged.
+
 BCDE8 follows up on the success of previous conferences held in La Paz, Cochabamba, and Santa Cruz, that attracted prestigious researchers and policymakers, and included keynote lectures by Norman Loayza (World Bank), Miguel Urquiola (Columbia), Beatriz Armendáriz (Harvard), Máximo Torero (IFPRI), Santiago Levy (IADB), James Robinson (Chicago), Rodrigo Soares (Columbia), Eduardo Lora (LACEA), Roberto Rigobon (MIT), and Eduardo Engel (Yale).
 
 
@@ -29,11 +31,11 @@ BCDE8 follows up on the success of previous conferences held in La Paz, Cochabam
 
  All participants must cover their own travel and accommodation costs, but the organizers will arrange for preferential rates at hotels in Cochabamba.
 
- A travel stipend of 700 USD will be offered to some of the successful applicants residing outside Bolivia, based on the quality of their submissions. Applicants interested in being considered for one of these stipends, should indicate that at the moment of submitting their papers.
+ A travel stipend of up to 700 USD will be offered to some of the successful applicants residing outside Bolivia, based on the quality of their submissions. Applicants interested in being considered for one of these stipends, should send an email to [rnogales@sebol.org](mailto:rnogales@sebol.org) after submitting their papers.
 
 
 #### Paper submissions
-__Deadline:__ is Tuesday August 15, 2017
+__Deadline:__ is Friday August 11, 2017
 
 __Please submit your papers__ [here](http://bit.ly/2q30PuF). <br/>
 
@@ -41,4 +43,4 @@ All submitted papers will be reviewed prior to acceptance for presentation. The 
 
 
 #### Contact
-Please feel free to contact the organizers by e-mail at: [sebol.bcde.2017@gmail.com](mailto:sebol.bcde.2017@gmail.com)
+Please feel free to contact the organizers by e-mail at: [rnogales@sebol.org](mailto:rnogales@sebol.org)
