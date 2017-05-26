@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "BCDE8"
-email: "sebol.bcde.2017@gmail.com"
+email: "admin@bcde8.org"
 description: "Bolivian Conference of Development Economics"
 baseurl: ""
 url: "https://sebolbcde.github.io"
@@ -29,7 +29,7 @@ google_maps_javascript_api_key: AIzaSyDy_DAYgfh_AdZJLISWA_RhR518I40DACQ
 organizerName: "SEBOL"
 organizerAlternateName: "Sociedad de Economistas de Bolivia"
 organizerDescription: ""
-organizerEmail: "sebol.bcde.2017@gmail.com"
+organizerEmail: "admin@bcde8.org"
 organizerLogo: "/img/seo/logo-upb-small.png"
 organizerLink: "http://www.sebol.org"
 
@@ -126,7 +126,7 @@ venueFeatures: ["Modern campus", "Conference rooms equiped with HD projectors", 
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "SEBOLBolivia"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -197,7 +197,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:sebol.bcde@gmail.com", text: "sebol.bcde@gmail.com"}
+   - {link: "mailto:admin@bcde8.org", text: "sadmin@bcde8.org"}
  -
   title: "FAQ"
   links:
