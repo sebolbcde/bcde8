@@ -6,7 +6,7 @@ image: workshop_1.jpg
 isStaticPost: false
 ---
 
-We're very excited about BCDE8, not only because it will take place in a great city,
+We're very excited about the 8th Bolivian Conference on Development Economics (BCDE8), not only because it will take place in a great city,
 but also because our team are putting together a great program and contacting outstanding
 speakers to join us in Cochabamba.
 

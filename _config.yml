@@ -14,9 +14,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "BCDE8"
 email: "admin@bcde8.org"
-description: "Bolivian Conference of Development Economics"
+description: "Bolivian Conference on Development Economics"
 baseurl: ""
-url: "https://sebolbcde.github.io"
+url: "https://www.bcde8.org"
 alias: "https://www.bcde8.org"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
@@ -76,7 +76,7 @@ heroButtons:
 # About Block
 aboutTitle: "About BCDE8"
 aboutBlock:
- - {title: "Keynotes", image: "keynotes.jpg", text: "The largest academic conference in development economics in Bolivia." }
+ - {title: "Keynotes", image: "keynotes.jpg", text: "The largest academic conference on development economics in Bolivia." }
  - {title: "Policy roundtable", image: "roundtable.jpg", text: "Discuss current events affecting the region and interact with leading experts and academics about views and solutions." }
  - {title: "Parallel sessions", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
 
