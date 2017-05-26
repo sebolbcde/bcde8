@@ -37,7 +37,7 @@ BCDE8 follows up on the success of previous conferences held in La Paz, Cochabam
 #### Paper submissions
 __Deadline:__ is Friday August 11, 2017
 
-__Please submit your papers__ [here](http://bit.ly/2q30PuF). <br/>
+__Please submit your papers__ [here](http://bit.ly/2r6pkd0). <br/>
 
 All submitted papers will be reviewed prior to acceptance for presentation. The review process will finish by Friday September 1, 2017, and the organizers will notify applicants of the outcome by email. A program with details of all scheduled presentations will be posted at the Conference’s web site. <br/>
 
