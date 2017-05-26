@@ -33,4 +33,4 @@ Our keynotes speakers will be:
 * **Carlos Végh** - World Bank - Chief Economist for Latin America<br>
 <br>
 
-More details about speakers, BCDE8, and logistics will appear in subsequent posts, in the meantime like us on [Facebook](https://facebook.com/SEBOL), follow on [Twitter](https://twitter.com/intent/user?screen_name=BCDE8), or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any important updates about the conference. -->
+More details about speakers, BCDE8, and logistics will appear in subsequent posts, in the meantime like us on [Facebook](https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/), follow on [Twitter](https://twitter.com/intent/user?screen_name=SEBOLBolivia), or subcribe to our [mailing list](https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;id=cc247ac02b) and [RSS feed](http://www.bcde8.org/feed.xml) in order not to miss any important updates about the conference. -->
