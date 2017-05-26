@@ -197,7 +197,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:admin@bcde8.org", text: "sadmin@bcde8.org"}
+   - {link: "mailto:admin@bcde8.org", text: "admin@bcde8.org"}
  -
   title: "FAQ"
   links:
