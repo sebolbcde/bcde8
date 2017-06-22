@@ -85,8 +85,8 @@ statisticBlockImage: "hero_abstract_4.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere: students, professionals, policy makers"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of academic and policy discussion"}
- - {count: "30", specialCharacter: "+", info: "researchers", detail: "from local and international universities and international organizations"}
- - {count: "4", specialCharacter: "+", info: "parallel sessions", detail: "with presentations and full interaction with participants"}
+ - {count: "50", specialCharacter: "+", info: "researchers", detail: "from local and international universities and international organizations"}
+ - {count: "15", specialCharacter: "+", info: "parallel sessions", detail: "with presentations and full interaction with participants"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
