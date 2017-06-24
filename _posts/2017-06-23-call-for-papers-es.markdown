@@ -38,4 +38,4 @@ __Recepción de documentos:__ [http://bit.ly/2r6pkd0](http://bit.ly/2r6pkd0). <b
 Todos los documentos recibidos serán revisados por un comité antes ser aceptados en la conferencia. El proceso de revisión terminará hasta el viernes 1ro de septiembre y los organizadores comunicaran los resultados del proceso de selección vía correo electrónico. El programa detallada estará disponible en el sitio web de la conferencia posteriormente.
 <br/>
 #### Consultas
-En caso de consultas sobre el envió de documentos y el programa, por favor contactar a los organizadores a la siguiente dirección: [rnogales@sebol.org](mailto:rnogales@sebol.org)
+En caso de consultas sobre el envío de documentos y el programa, por favor contactar a los organizadores a la siguiente dirección: [rnogales@sebol.org](mailto:rnogales@sebol.org)
