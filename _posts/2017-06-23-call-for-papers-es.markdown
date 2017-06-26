@@ -22,7 +22,7 @@ La BCDE8 se llevará a cabo en el campus de la Universidad Privada Boliviana (UP
 
 #### Sobre la conferencia
 
-La BCDE8 es la continuación de otras conferencias organizadas en las ciudades de La Paz, Cochabamba and Santa Cruz que atrajeron académicos e investigadores de alto nivel, entre los que se incluye como principales oradores a Norman Loayza (Banco Mundial), Miguel Urquiola (Columbia), Beatriz Armendáriz (Harvard), Máximo Torero (IFPRI), Santiago Levy (BID), James Robinson (Chicago), Rodrigo Soares (Columbia), Eduardo Lora (Harvard Kennedy School of Government), Roberto Rigobon (MIT), Eduardo Engel (Yale), David Bishai (Johns Hopkins), y Francisco H. G. Ferreira (Banco Mundial).
+La BCDE8 es la continuación de otras conferencias organizadas en las ciudades de La Paz, Cochabamba y Santa Cruz que atrajeron académicos e investigadores de alto nivel, entre los que se incluye como principales oradores a Norman Loayza (Banco Mundial), Miguel Urquiola (Columbia), Beatriz Armendáriz (Harvard), Máximo Torero (IFPRI), Santiago Levy (BID), James Robinson (Chicago), Rodrigo Soares (Columbia), Eduardo Lora (Harvard Kennedy School of Government), Roberto Rigobon (MIT), Eduardo Engel (Yale), David Bishai (Johns Hopkins), y Francisco H. G. Ferreira (Banco Mundial).
 
 #### Viaje y estadía
 
