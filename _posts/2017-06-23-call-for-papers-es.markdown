@@ -5,11 +5,11 @@ date:   2017-06-23 09:00:00
 image: view_call_1.jpg
 isStaticPost: false
 ---
-Estamos encantados de anunciar que la 8va Conferencia en Desarrollo Económico (BCDE8) se llevará a cabo en Cochabamba, Bolivia el jueves 26 y viernes 27 de octubre de 2017. La conferencia es organizada por el Instituto de Estudios Avanzados para el Desarrollo (INESAD), la Sociedad de Economistas de Bolivia (SEBOL), la Universidad Privada Boliviana (UPB) y la Academia Boliviana de Ciencias Economics (ABCE).  
+Estamos encantados de anunciar que la 8va Conferencia en Desarrollo Económico (BCDE8) se llevará a cabo en Cochabamba, Bolivia el jueves 26 y viernes 27 de octubre de 2017. La conferencia es organizada por el Instituto de Estudios Avanzados para el Desarrollo (INESAD), la Sociedad de Economistas de Bolivia (SEBOL), la Universidad Privada Boliviana (UPB) y la Academia Boliviana de Ciencias Económicas (ABCE).  
 
 La conferencia reunirá a académicos nacionales e internacionales para intercambiar y discutir avances recientes en la investigación teórica y aplicada en temas de desarrollo económico. En particular invitamos a jóvenes investigadores y a mujeres investigadoras  a enviar documentos de investigación en todos los temas relacionados al campo del desarrollo económico.
 
-Este año tenemos el agrado de contar con dos disertaciones magistrales a cargo de Sara Farley (Global Knowledge Initiative) y Carlos Végh (World Bank).
+Este año tenemos el agrado de contar con dos disertaciones magistrales a cargo de Sara Farley (Global Knowledge Initiative) y Carlos Végh (Banco Mundial).
 
 #### Lugar
 La BCDE8 se llevará a cabo en el campus de la Universidad Privada Boliviana (UPB) en Cochabamba, Bolivia. Mayor información sobre la ciudad y detalles de logística están disponibles [acá](/logistics).  

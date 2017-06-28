@@ -239,7 +239,7 @@ directionDetailsTitle: "Get around Cochabamba"
 directionDetailsCards:
  - {title: "Airport", information: 'Jorge Wilstermann International Airport is conveniently located 6 Km. away from downtown Cochabamba. To-From airport information is available at <a href="http://www.sabsa.aero/aeropuerto-jorge-wilsterman/">airport website</a>.'}
  - {title: "Public Transit", information: 'Cochabamba offers a very wide network of public transportation operated by transport federations regulated by the regional government. Several radio-cab companies offer safe and timely private transport services at affordable prices.'}
- - {title: "Hotels", information: 'BCDE has arranged a preferential accommodation service with some of the best hotels in Cochabamba.'}
+ - {title: "Hotels", information: 'BCDE has arranged preferential rates with the following hotels: <a href="http://granhotelcochabamba.com.bo">Gran Hotel Cochabamba</a> <br> (&#9733 &#9733 &#9733 &#9733 &#9733), 45 USD/night breakfast buffet included. <br> <a href="http://www.hotelreginabolivia.com">Hotel Regina (Prado)</a> <br>(&#9733 &#9733 &#9733 &#9733), 35 USD/night breakfast buffet included. <br> <br> For both hotels the reservation code is 8BCDE'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -247,8 +247,8 @@ directionDetailsWideCards:
    -
     title: "Lodging"
     links:
-     - {link: "https://www.tripadvisor.com/Hotels-g297315-Cochabamba_Cochabamba_Department-Hotels.html", text: "Hotels"}
-     - {link: "https://www.airbnb.com/s/Cochabamba--Bolivia/homes?allow_override%5B%5D=&s_tag=jQAawCb1", text: "AIRBNB"}
+     - {link: "http://granhotelcochabamba.com.bo", text: "Gran Hotel Cochabamba <br> &#9733 &#9733 &#9733 &#9733 &#9733"}
+     - {link: "http://www.hotelreginabolivia.com", text: "Hotel Regina <br> &#9733 &#9733 &#9733 &#9733"}
    -
     title: "Recommended"
     links:
