@@ -26,7 +26,7 @@ La BCDE8 es la continuación de otras conferencias organizadas en las ciudades d
 
 #### Viaje y estadía
 
-Todos los participantes deben cubrir sus propios gastos de viajes y estadía. Sin embargo, los organizadores negociarán tasas preferenciales en varios hoteles de Cochabamba durante los días de la conferencia.
+Todos los participantes deben cubrir sus propios gastos de viajes y estadía. Sin embargo, los organizadores negociarán tasas preferenciales en varios hoteles de Cochabamba durante los días de la conferencia. Para más información visita: [www.bcde8.org/logistics](http://www.bcde8.org/logistics).
 
 Becas de ayuda de hasta 700 dólares americanos se ofrecerán para algunos de los participantes que viven fuera de Bolivia y cuyos documentos de investigación hayan sido aceptados en base a criterios de calidad académica. Los interesados en ser considerados para estos fondos deberán enviar un correo electrónico a [rnogales@sebol.org](mailto:rnogales@sebol.org) luego de enviar sus documentos.
 

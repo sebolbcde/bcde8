@@ -28,7 +28,7 @@ BCDE8 follows up on the success of previous conferences held in La Paz, Cochabam
 
 #### Travel and accommodation
 
- All participants must cover their own travel and accommodation costs, but the organizers will arrange for preferential rates at hotels in Cochabamba.
+ All participants must cover their own travel and accommodation costs, but the organizers have arranged for preferential rates at hotels in Cochabamba. For details check: [www.bcde8.org/logistics](http://www.bcde8.org/logistics)
 
  A travel stipend of up to 700 USD will be offered to some of the successful applicants residing outside Bolivia, based on the quality of their submissions. Applicants interested in being considered for one of these stipends, should send an email to [rnogales@sebol.org](mailto:rnogales@sebol.org) after submitting their papers.
 
