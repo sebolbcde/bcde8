@@ -197,6 +197,7 @@ footerBlocks:
   links:
    - {link: "http://www.sebol.org.bo", text: "SEBOL"}
    - {link: "https://www.upb.edu", text: "UPB"}
+   - {link: "https://www.inesad.edu.bo", text: "INESAD"}
  -
   title: "Contacts"
   links:
