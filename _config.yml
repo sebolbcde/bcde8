@@ -55,16 +55,16 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/workshops/", text: "Workshops"}
  - {permalink: "/blog/call-for-papers", text: "Call for papers"}
- - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
+ # - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-# - {permalink: "/team/", text: "About Sebol"}
-
+ # - {permalink: "/team/", text: "Organizers"}
+ - {permalink: "/organizers/", text: "Organizers"}
 rightNavigationButtons:
  - {link: "/blog/call-for-papers", text: "Submit your paper"}
 
 # Hero Block
-heroImage: "hero_cover_7.jpg"
+heroImage: "hero_cover_9.jpg"
 # heroTitle: "8th Bolivian Conference of Development Economics Universidad Privada Boliviana  <typeout>"
 # eventDate: "Cochabamba-Bolivia | October 26 - 27 | 2017"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
@@ -86,7 +86,7 @@ statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere: students, professionals, policy makers"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of academic and policy discussion"}
  - {count: "50", specialCharacter: "+", info: "researchers", detail: "from local and international universities and international organizations"}
- - {count: "15", specialCharacter: "+", info: "parallel sessions", detail: "with presentations and full interaction with participants"}
+ - {count: "10", specialCharacter: "+", info: "parallel sessions", detail: "with presentations and full interaction with participants"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
