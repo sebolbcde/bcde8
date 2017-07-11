@@ -6,21 +6,21 @@ isStaticPost: true
 ---
 
 #### Conference Chairman:
-* Boris Branisa (INESAD)
+* Boris Branisa (INESAD, SEBOL)
 
 #### Conference Organizing Committee:
-
-* Gustavo Canavire (EAFIT)
-* Marcelo Cardona (University of Copenhagen)
-* Luis Castro (UPB)
-* Pablo Cuba Borda (Federal Reserve Board)
-* Carlos Gustavo Machicado (INESAD)
-* Oscar Molina (UPB)
-* Beatriz Muriel (INESAD)
-* Ricardo Nogales (UPB)
-* Pablo Selaya (University of Copenhagen)
-* Antonio Saravia (Mercer University)
-* Mauricio Tejada (Universidad Alberto Hurtado - ILADES)
+* Gustavo Canavire (EAFIT, SEBOL)
+* Marcelo Cardona (University of Copenhagen, SEBOL)
+* Luis Castro (UPB, SEBOL)
+* Pablo Cuba Borda (Federal Reserve Board, SEBOL)
+* Carlos Gustavo Machicado (INESAD, SEBOL)
+* Oscar Molina (UPB, SEBOL, ABCE)
+* Beatriz Muriel (INESAD, SEBOL, ABCE)
+* Ricardo Nogales (UPB, SEBOL)
+* Pablo Selaya (University of Copenhagen, SEBOL)
+* Antonio Saravia (Mercer University, SEBOL)
+* Mauricio Tejada (Universidad Alberto Hurtado, SEBOL)
+* Natalia Zegarra (INESAD, SEBOL)
 
 Conference organizers can be reached at the conference e-mail account: [admin@bcde8.org](mailto:admin@bcde8.org)
 
