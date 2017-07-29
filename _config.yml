@@ -115,11 +115,10 @@ mapMobileCenterCoordinates: "-17.396416, -66.218217"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_upb_1.jpg"
+venueBigImage: "venue_upb_3.jpg"
 venueSmallImage1: "venue_upb_1.jpg"
 venueSmallImage2: "venue_upb_2.jpg"
 venueSmallImage3: "venue_upb_0.jpg"
-venueSmallImage4: "venue_upb_3.jpg"
 venueTitle: "UPB Campus Cochabamba"
 venueFeatures: ["Av Juan Pablo II, Cochabamba, Bolivia"," (+591-4) 426-8287"]
 
