@@ -1,9 +1,9 @@
 <!-- Begin Speakers List 2-->
 <section id="speakers">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
+        <div class="col-lg-6 col-lg-offset-3 appear-animation-trigger">
             {% for speaker in site.data.speakers %}
-            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
+            <div class="effect-wrapper col-md-6 col-sm-6 col-6 appear-animation">
                 <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
@@ -23,13 +23,6 @@
                                 <div class="clearfix"></div>
                                 <span class="position">{{ speaker.company }}</span>
                             </div>
-                            {% for social in speaker.social %}
-                            <a href="{{ social.link }}" target="_blank">
-                                <svg class="icon icon-{{ social.name }}" viewBox="0 0 30 32">
-                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.name }}"></use>
-                                </svg>
-                            </a>
-                            {% endfor %}
                         </figcaption>
                         <p class="bio">{{ speaker.bio | strip_html }}</p>
                     </figure>
@@ -37,7 +30,6 @@
             </div>
             {% endfor %}
         </div>
-        <!-- <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>          -->
     </div>
 </section>
 <!-- End Speakers List 2 -->

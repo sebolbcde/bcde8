@@ -77,7 +77,7 @@ heroButtons:
 aboutTitle: "About BCDE8"
 aboutBlock:
  - {title: "Keynotes", image: "keynotes.jpg", text: "The largest academic conference on development economics in Bolivia." }
- - {title: "Policy roundtable", image: "roundtable.jpg", text: "Discuss current events affecting the region and interact with leading experts and academics about views and solutions." }
+ - {title: "Flagship Reports", image: "roundtable.jpg", text: "Special invited speakers from IDB/CAF/World Bank will present their flagship reports to discuss pressing issues for economies in the region." }
  - {title: "Parallel sessions", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
 
 # Statistic Block
@@ -93,8 +93,8 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 2
-rockstarSpeakersTitle: "Keynote speakers"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "BCDE8 speakers"
 rockstarSpeakersButtonText: "Learn more about our speakers"
 
 # Location Block
