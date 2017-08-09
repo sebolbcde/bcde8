@@ -19,4 +19,4 @@ Andrés will present __IDB's 2017 Latin American and Caribbean Macroeconomic Rep
 
 #### CAF Economy and Development Report
 
-Juan will present __CAF's 2017 Economy and Development Report__ that looks at the role of Urbanization in Development from the perspective of several Latin American countries.  
+Juan will present __CAF's 2017 Economy and Development Report__ that analyzes the role of u rbanization in development from the perspective of several Latin American countries.  
