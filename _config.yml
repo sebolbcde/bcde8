@@ -60,6 +60,8 @@ navigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  # - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/organizers/", text: "Organizers"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
+
 rightNavigationButtons:
  - {link: "/blog/call-for-papers", text: "Submit your paper"}
 
@@ -132,7 +134,7 @@ twitterFeed: "http://www.bcde8.org/tweetledee/favoritesjson.php"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block

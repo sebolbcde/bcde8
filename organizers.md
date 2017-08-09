@@ -2,6 +2,7 @@
 layout: post
 title: Organizers
 permalink: /organizers/
+image: organizers.jpg
 isStaticPost: true
 ---
 
