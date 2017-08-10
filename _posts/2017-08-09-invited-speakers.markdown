@@ -15,8 +15,8 @@ We are pleased to confirm two special guest speakers participating in the 8th Bo
 
 #### IDB Macro Report
 
-Andrés will present __IDB's 2017 Latin American and Caribbean Macroeconomic Report__ which  considers recent developments in the global economy and how they may affect Latin America and the Caribbean. It reviews how countries are adapting to external conditions and how those policies may be improved.
+Andrés will present __IDB's 2017 Latin American and Caribbean Macroeconomic Report: "Routes to Growth in a New Trade World"__ which  considers recent developments in the global economy and how they may affect Latin America and the Caribbean. It reviews how countries are adapting to external conditions and how those policies may be improved. The report focuses particularly on deeper and smarter regional integration as an attractive route to boost productivity and growth.
 
 #### CAF Economy and Development Report
 
-Juan will present __CAF's 2017 Economy and Development Report__ that analyzes the role of u rbanization in development from the perspective of several Latin American countries.  
+Juan will present __CAF's 2017 Economy and Development Report (RED): “Urban Growth y Access to Opportunities: A Challenege for Latin America”.__ emphasizes the concept of accessibility in cities as a fundamental determinant of productivity and welfare for its inhabitants. An accessible city reduces real distances between people and firms, and bolsters the benefits of agglomeration. To achieve these gains urban planning, land zoning, infrastructure, traffic congestion, and housing policies need to be articulated at an efficient metropolitan level.  

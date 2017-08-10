@@ -1,7 +1,7 @@
 -
   group: "Premium Sponsors"
   elements:
-      - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "bid-logo.svg"}
+      - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "bid-logo2.svg"}
       - {name: "FSD Network", description: "IDB's Financial Stability and Development Group", link: "https://http://www.iadb.org/en/research-and-data/financial-stability-and-development-group,9834.html", imageUrl: "EDF-Logo.svg"}
     # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 # -
