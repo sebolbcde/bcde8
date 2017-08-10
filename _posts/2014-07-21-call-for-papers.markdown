@@ -21,6 +21,12 @@ Information about the city and logistics is available [here](/logistics).
 
 * Carlos Végh (Ph.D. University of Chicago) is the World Bank Chief Economist for Latin America and the Caribbean. Prior to starting his job at the World Bank, he was the Fred H. Sanderson Professor of International Economics at the Johns Hopkins School of Advanced International Studies (SAIS) and a Research Associate at the National Bureau of Economic Research (NBER). He also served as Professor of Economics and Vice-Chair of Undergraduate Studies at UCLA, and before that as Chair of the Program in Comparative and Topical Studies at UCLA's Latin American Center. He has published extensively in leading academic journals on monetary and fiscal policy in developing and emerging countries. He has co-edited a volume in honor of Guillermo Calvo (MIT Press) and  published a graduate textbook on open economy macroeconomics for developing countries (MIT Press). He has been a consultant for the IMF, World Bank, IDB, and many Central Banks around the world.
 
+#### Invited Guest Speakers:
+
+* Andrés Fernández (Ph.D. Rutgers University) is a Research Economist in the Research Department at the Inter-American Development Bank. His main research agenda focuses on building, calibrating and estimating dynamic stochastic general equilibrium models for emerging economies to  study the sources of business cycles in emerging economies.
+
+* Juan Vargas (Ph.D. University of London) is a Research Economist at CAF-Development Bank of Latin America. Juan held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence.
+
 #### What to expect?
 
 BCDE8 follows up on the success of previous conferences held in La Paz, Cochabamba, and Santa Cruz, that attracted prestigious researchers and policymakers, and included keynote lectures by Norman Loayza (World Bank), Miguel Urquiola (Columbia), Beatriz Armendáriz (Harvard), Máximo Torero (IFPRI), Santiago Levy (IADB), James Robinson (Chicago), Rodrigo Soares (Columbia), Eduardo Lora (Harvard Kennedy School of Government), Roberto Rigobon (MIT), Eduardo Engel (Yale), David Bishai (Johns Hopkins), and Francisco H. G. Ferreira (World Bank).
