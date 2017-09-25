@@ -86,7 +86,7 @@
   title: "B1. Environmental Economics I"
   description: ""
   subtype: presentation
-  speakers: [19, 20, 21]
+  speakers: [19, 20, 33]
   # language: en
   # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -98,14 +98,14 @@
   subtype: presentation
   speakers: [22, 23, 24]
 -
-  id: 007
-  title: "B3. Economic Growth"
+  id: 012
+  title: "C4. Economic Growth"
   description: ""
   subtype: presentation
   speakers: [25, 26, 27]
 -
-  id: 008
-  title: "B4. Climate and Development"
+  id: 016
+  title: "D4. Climate and Development"
   description: ""
   subtype: presentation
   speakers: [28, 29, 30]
@@ -114,7 +114,7 @@
   title: "C1. Environmental Economics II"
   description: ""
   subtype: presentation
-  speakers: [31, 32, 33]
+  speakers: [31, 32, 21]
 -
   id: 010
   title: "C2. Health Economics "
@@ -128,8 +128,8 @@
   subtype: presentation
   speakers: [37, 38, 39]
 -
-  id: 012
-  title: "C4. Natural Resources and Development"
+  id: 007
+  title: "B3. Natural Resources and Development"
   description: ""
   subtype: presentation
   speakers: [40, 41, 42]
@@ -152,8 +152,8 @@
   subtype: presentation
   speakers: [49, 50, 51]
 -
-  id: 016
-  title: "D4. Labor Economics II"
+  id: 008
+  title: "B4. Labor Economics II"
   description: ""
   subtype: presentation
   speakers: [52, 53, 54]
