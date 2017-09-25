@@ -5,9 +5,9 @@
   timeslots:
 # Registration
     - {
+    	sessionIds: [201],
       startTime: "8:00",
-      endTime: "9:00",
-    	sessionIds: [201]
+      endTime: "9:00"
     }
     # - {
     #   startTime: "8:00",
@@ -16,19 +16,26 @@
 
 # Opening Ceremony
     - {
-    	sessionIds: [202]
+    	sessionIds: [202],
+      startTime: "9:00",
+      endTime: "9:30"
     }
-    # - {
-    #   startTime: "9:00",
-    #   endTime: "9:30"
-    #   }
+# Keynote Session
+    - {
+    	sessionIds: [401],
+      startTime: "9:30",
+      endTime: "10:30"
+    }
+
 # Coffee Break
     - {
     	sessionIds: [501]
     }
 #   - {title: "Parallel Sessions A", color: "#90be4e"}
     - {
-    	sessionIds: [301]
+    	sessionIds: [301],
+      startTime: "11:00",
+      endTime: "12:30"
     }
     - {
 #    	startTime: "10:00",
@@ -38,27 +45,15 @@
 # Lunch Break
     - {
     	sessionIds: [502]
-    }
-    # - {
-    #   startTime: "12:00",
-    #   endTime: "13:00"
-    # }
-# Keynote Session
-    - {
-    	sessionIds: [401]
-    }
-    # - {
-    #   startTime: "13:30",
-    #   endTime: "14:30"
-    # }
+      }
 
-# Parallel Session
+# Parallel Session B
     - {
-    	sessionIds: [301]
+    	sessionIds: [301],
+      startTime: "14:00",
+      endTime: "15:30"
     }
     - {
-# startTime: "14:30",
-# endTime: "16:00",
       sessionIds: [005, 006, 007, 008]
     }
 # Coffee Break
@@ -67,7 +62,9 @@
     }
 # Flagship Session
     - {
-    	sessionIds: [402]
+    	sessionIds: [402],
+      startTime: "16:00",
+      endTime: "17:00"
     }
     # - {
     #   startTime: "16:30",
@@ -75,7 +72,8 @@
     # }
 # Conference Dinner
     - {
-    	sessionIds: [503]
+    	sessionIds: [503],
+      startTime: "18:30"
     }
     # - {
     #   startTime: "18:30"
@@ -91,7 +89,9 @@
   timeslots:
 # Registration
     - {
-    	sessionIds: [201]
+    	sessionIds: [201],
+      startTime: "8:00",
+      endTime: "9:00"
     }
     # - {
     #   startTime: "8:00",
@@ -99,7 +99,9 @@
     #   }
 # Parallel sessions C
     - {
-    	sessionIds: [301]
+    	sessionIds: [301],
+      startTime: "9:00",
+      endTime: "10:30"
     }
     - {
 #    	startTime: "9:00",
@@ -113,7 +115,9 @@
 
 # Flagship Session 2
     - {
-    	sessionIds: [402]
+    	sessionIds: [402],
+      startTime: "11:00",
+      endTime: "12:00"
     }
     # - {
     #   startTime: "11:00",
@@ -131,7 +135,9 @@
 
 # Parallel Sessions
     - {
-    	sessionIds: [301]
+    	sessionIds: [301],
+      startTime: "13:30",
+      endTime: "15:00"
     }
     - {
 #     startTime: "13:30",
@@ -145,7 +151,9 @@
 
 # Parallel Sessions E
     - {
-    	sessionIds: [301]
+    	sessionIds: [301],
+      startTime: "15:30",
+      endTime: "17:00"
     }
 
     - {
@@ -155,7 +163,9 @@
     }
 # Keynote Session
     - {
-    	sessionIds: [401]
+    	sessionIds: [401],
+      startTime: "17:00",
+      endTime: "18:00"
     }
     # - {
     #   startTime: "17:15",
