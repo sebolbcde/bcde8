@@ -1,59 +1,177 @@
 -
-  id: 307
+  id: 501
   title: "Coffee Break"
-  place: "Hall"
+  # place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  # description: "The best time to talk with speakers and attendees"
+-
+  id: 502
+  title: "Lunch Break"
+  # place: "Dining room"
+  service: true
 -
   id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  title: "Conference Dinner"
+  # description: "For presenters"
   service: true
 -
+  id: 201
+  title: "Registration"
+  service: false
+-
+  id: 202
+  title: "Welcome and opening ceremony"
+  service: false
+-
+  id: 203
+  title: "Closing Ceremony and Farewell Cocktail Party"
+  service: false
+
+-
+  id: 301
+  title: "Parallel Sessions"
+  service: false
+-
+  id: 302
+  title: "Parallel Sessions B"
+  service: false
+-
+  id: 401
+  title: "Keynote Lecture"
+  service: false
+-
+  id: 402
+  title: "Flagship Session"
+  service: false
+-
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "A1. Labor Economics I"
+  description: ""
+  subtype: presentation
+  speakers: [7, 8, 9]
+  # language: en
+  # complexity: "Intermediate"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "A2. Political Economy"
+  description: ""
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [10, 11, 12]
+  # language: en
+  # complexity: "Intermediate"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "A3. Dynamic Macroeconomics"
+  description: ""
   subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [13, 14, 15]
+  # language: en
+  # complexity: "Intermediate"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "A4. Topics in Development Economics"
+  description: ""
+  subtype: presentation
+  speakers: [16, 17, 18]
+  # language: uk
+  # complexity: "Beginner"
+  # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "B1. Environmental Economics I"
+  description: ""
+  subtype: presentation
+  speakers: [19, 20, 21]
+  # language: en
+  # complexity: "Expert"
+  # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "B2. Development and Demographics"
+  description: ""
+  subtype: presentation
+  speakers: [22, 23, 24]
+-
+  id: 007
+  title: "B3. Economic Growth"
+  description: ""
+  subtype: presentation
+  speakers: [25, 26, 27]
+-
+  id: 008
+  title: "B4. Climate and Development"
+  description: ""
+  subtype: presentation
+  speakers: [28, 29, 30]
+-
+  id: 009
+  title: "C1. Environmental Economics II"
+  description: ""
+  subtype: presentation
+  speakers: [31, 32, 33]
+-
+  id: 010
+  title: "C2. Health Economics "
+  description: ""
+  subtype: presentation
+  speakers: [34, 35, 36]
+-
+  id: 011
+  title: "C3. Trade and International Economics"
+  description: ""
+  subtype: presentation
+  speakers: [37, 38, 39]
+-
+  id: 012
+  title: "C4. Natural Resources and Development"
+  description: ""
+  subtype: presentation
+  speakers: [40, 41, 42]
+-
+  id: 013
+  title: "D1.  Economics of Education I"
+  description: ""
+  subtype: presentation
+  speakers: [43, 44, 45]
+-
+  id: 014
+  title: "D2.  Development and Finance"
+  description: ""
+  subtype: presentation
+  speakers: [46, 47, 48]
+-
+  id: 015
+  title: "D3.  Topics in Development Economics II"
+  description: ""
+  subtype: presentation
+  speakers: [49, 50, 51]
+-
+  id: 016
+  title: "D4. Labor Economics II"
+  description: ""
+  subtype: presentation
+  speakers: [52, 53, 54]
+-
+  id: 017
+  title: "E1. Economics of Education II"
+  description: ""
+  subtype: presentation
+  speakers: [55, 56, 57]
+-
+  id: 018
+  title: "E2. Topics in Development Economics III"
+  description: ""
+  subtype: presentation
+  speakers: [58, 59, 60]
+-
+  id: 019
+  title: "Debate Session: Does Income Distribution Matter?"
+  # description: "Moderator: Boris Branisa"
+  subtype: presentation
+  speakers: [61,62]

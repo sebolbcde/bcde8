@@ -40,17 +40,435 @@
   bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
   thumbnailUrl: JuanVargas.jpg
   rockstar: true
-# -
-#   id: 7
-#   name: "Valentyn"
-#   surname: "Shybanov"
-#   company: "Twinfield, GDG Kyiv"
-#   title: "Software engineer/country manager"
-#   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-#   thumbnailUrl: ValentynShybanov.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social:
-#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#     - {name: "site", link: "http://olostan.name/"}
+-
+  id: 7
+  name: "Jorge"
+  surname: "Davalos"
+  company: "(Universidad del Pacifico)"
+  title: "Wage Discrimination as a Hidden Switching Regime: The case of Peru."
+  bio: "The empirical evidence on wage discrimination focuses on the estimation of wage gaps with respect to particular characteristics that are observed to the econo- metrician such as ethnicity and gender. We revisit the wage gap interpretation by introducing the more realistic assumption that individuals that are supposed to be wage-discriminated according to one characteristic (gender), could in fact end up not being discriminated. Our methodology allows the identification of an overall discrimination wage-gap and the implied discrimination probabilites associated to observed and unobserved discrimination factors. The empirical analysis builds on a pooled cross section of workers of the Peruvian labor mar- ket from 2007 to 2011. We identify that women are the most likely to be wage discriminated with a probability of about 7%."
+  rockstar: false
+
+-
+  id: 8
+  name: "Paola L."
+  surname: "Montero"
+  company: "(UPB)"
+  title: "Search, labor supply, and unemployment of married women in cities."
+  bio: "This paper studies female labor supply in an urban search matching framework. In our model, unemployed women allocate their time between searching for jobs and managing the household affairs, such as raising children or doing household chores. Employed women allocate their time between working, commuting, and housework. We show that there is a unique equilibrium. To study the properties of the equilibrium, we perform a comparative statics analysis and discuss how family context, firms factors frictions in the labor market, and urban factors geographical location affect the equilibrium. After introducing commuting time into the search-matching model, the equilibrium becomes inefficient even under the Hosios condition. Finally, we calibrate our model to France and the United States and show the effects of different policies such as housework subsidies, commuting subsidies, and unemployment subsidies."
+  rockstar: false
+-
+  id: 9
+  name: "Hernan"
+  surname: "Naranjo"
+  company: "(UPB)"
+  title: "Determinacion de la presencia de discriminacion en el mercado laboral boliviano."
+  bio: "En América Latina los mercados de trabajo se enfrentan con dos problemas principales: las altas tasas de informalidad y las bajas tasas de productividad (BID, 2009). Datos del Banco Interamericano de Desarrollo (SIMS, 2014) indican que la informalidad laboral calculada como el porcentaje de trabajadores no afiliados a la seguridad social afecta en promedio al 55% de la población económicamente activa de la región. Además, en América Latina el nivel promedio de productividad equivale solo al 25% de la productividad de Estados Unidos (Conference Board, 2015)."
+  rockstar: false
+
+-
+  id: 10
+  name: "Jose Ignacio"
+  surname: "Llodrá"
+  company: "(Clapes UC)"
+  title: "Vertical Partisan Affinities and Incumbent's Electoral Advantage: Evidence from Chile."
+  rockstar: false
+
+-
+  id: 11
+  name: "Michael"
+  surname: "Keller"
+  company: "(University of Sussex)"
+  title: "Resource Discovery and the Fortune of Political Leaders."
+  rockstar: false
+-
+  id: 12
+  name: "Christophe"
+  surname: "Rault"
+  company: "(University of Orleans)"
+  title: "Political Instability, Corruption and Real Exchange Rate: What can we learn from the CS-ARDL Approach for Emerging and Developing Countries?"
+  rockstar: false
+-
+  id: 13
+  name: "Mauricio"
+  surname: "Tejada"
+  company: "(ILADES - UAH)"
+  title: "On the Interaction between Public Sector Employment and Minimum Wage in a Search and Matching Model."
+  rockstar: false
+-
+  id: 14
+  name: "Luis Fernando"
+  surname: "Corrales"
+  company: "(PUC-Chile)"
+  title: "On the Welfare and Distributional Effects of Implementing an Expenditure Fiscal Rule."
+  rockstar: false
+-
+  id: 15
+  name: " Izabela"
+  surname: "Sobiech"
+  company: "(Sao Paulo School of Economics)"
+  title: "Endogenous growth model with imperfect information and monetary policy."
+  rockstar: false
+
+-
+  id: 16
+  name: "Javier Alejandro"
+  surname: "Rodríguez-Camacho"
+  company: "(Pontificia Universidad Javeriana)"
+  title: "Expert services and user reviews in a market for experience goods."
+  rockstar: false
+
+-
+  id: 17
+  name: "Andres"
+  surname: "Chive Herrera"
+  company: "(Programa de las Naciones Unidas para el Desarrollo - PNUD)"
+  title: "Movilidad economica en Bolivia: Una aplicacion empirica a traves de paneles sinteticos."
+  rockstar: false
+
+-
+  id: 18
+  name: "Darwin"
+  surname: "Ugarte"
+  company: "(UPB)"
+  title: "Outliers in semi-parametric Estimation of Treatment Effects."
+  rockstar: false
+
+-
+  id: 19
+  name: "Victor"
+  surname: "Gamarra Echenique"
+  company: "(PUC-Peru)"
+  title: "Variegated dependence: The geographically differentiated economic outcomes of resource-based development in Peru, 2001-2015."
+  rockstar: false
+
+-
+  id: 20
+  name: "María"
+  surname: "Castro Calisaya"
+  company: "(Universidad Técnica de Oruro)"
+  title: "Efectos del cambio climatico en el nivel de pobreza en la zona del altiplano de Bolivia: Analisis multitemporal aplicando sistemas de informacion geografica."
+  rockstar: false
+-
+  id: 21
+  name: "Cesar"
+  surname: "Huaroto"
+  company: "(Universidad Nacional de La Plata)"
+  title: "Dependent Local Development: The Restricted Linkage Effects of Mining on Agriculture in the Peruvian Andes, 1994-2012."
+  rockstar: false
+-
+  id: 22
+  name: "Ursula"
+  surname: "Aldana"
+  company: "(IEP)"
+  title: "Internal migration and territorial wealth:  the effect of distance and agglomeration in Peru."
+  rockstar: false
+-
+  id: 23
+  name: "Lykke E."
+  surname: "Andersen"
+  company: "(INESAD)"
+  title: "Measuring Equality of Opportunity in Early Childhood:  A methodological proposal using Demographic and Health Surveys."
+  rockstar: false
+-
+  id: 24
+  name: "Florence"
+  surname: "Arestoff"
+  company: "(Université Paris Dauphine)"
+  title: "Demographic conditions at birth and children’s health outcomes."
+  rockstar: false
+-
+  id: 25
+  name: "Carlos Gustavo"
+  surname: "Machicado"
+  company: "(INESAD)"
+  title: "Determinantes de la Productividad Total de Factores en Bolivia entre 1950 y 2015."
+  rockstar: false
+-
+  id: 26
+  name: "Rolando"
+  surname: "Caballero Martínez"
+  company: "(UNAM - CEMFI)"
+  title: "Elasticidades Tributarias De Corto Y Largo Plazo Para Los Principales Impuestos De Bolivia 1990-2016. Un Enfoque De Series De Tiempo Multivariado."
+  rockstar: false
+-
+  id: 27
+  name: "Einar"
+  surname: "Paz"
+  company: "(Banco Central de Bolivia)"
+  title: "Analisis del Ciclo Economico Boliviano con un Modelo Markov-Switching."
+  rockstar: false
+
+-
+  id: 28
+  name: "Cesar"
+  surname: "Huaroto"
+  company: "(Universidad Nacional de La Plata)"
+  title: "Ten years after an Earthquake, what is left? New evidence on the destruction and reconstruction effects of Natural Disasters on Developing countries."
+  rockstar: false
+
+-
+  id: 29
+  name: "Gustavo"
+  surname: "Canavire-Bacarreza"
+  company: "(Universidad EAFIT)"
+  title: "Unintended consequences of conservation: estimating the causal effect of protected areas on violence in Colombia."
+  rockstar: false
+
+-
+  id: 30
+  name: "Akito"
+  surname: "Kamei"
+  company: "(University of Illinois at Urbana-Champaign)"
+  title: "The Impact of Rainfall on Women/Child Domestic Labor Supply, Climate and Child Labor using Ugandan Panel Data 2009-2012."
+  rockstar: false
+-
+  id: 31
+  name: "Javier"
+  surname: "Aliaga"
+  company: "(ABCE y Universidad de Cartagena)"
+  title: "Water Common Pool Resource Management: Intergenarational Field Evidence in Bolivia."
+  rockstar: false
+-
+  id: 32
+  name: "Shaun"
+  surname: "McRae"
+  company: "(ITAM)"
+  title: "Electricity Access Charges and Tariff Structure in Sub-Saharan Africa."
+  rockstar: false
+
+-
+  id: 33
+  name: "Jose Maria"
+  surname: "Martinez"
+  company: "(International Center for Tropical Agriculture)"
+  title: "Technology adoption among Bolivian rice farmers: A multivariate approach."
+  rockstar: false
+-
+  id: 34
+  name: "Inés"
+  surname: "Lagrava"
+  company: "(Independent Researcher)"
+  title: "Mortalidad neonatal en el Estado Plurinacional de Bolivia: desigualdades territoriales en el acceso a los servicios de salud."
+  rockstar: false
+-
+  id: 35
+  name: "Tonny"
+  surname: "Odokonyero"
+  company: "(Economic Policy Research Centre)"
+  title: "Universal Health Coverage in Uganda: The critical health infrastructure, healthcare coverage and equity."
+  rockstar: false
+
+-
+  id: 36
+  name: "Akito"
+  surname: "Kamei"
+  company: "(University of Illinois at Urbana-Champaign)"
+  title: "Impact of a Father’s Mixed-Sex and Son Preference on Physical Domestic Violence: Evidence from India."
+  rockstar: false
+
+-
+  id: 37
+  name: "Antonio"
+  surname: "Saravia"
+  company: "(Mercer University)"
+  title: "Trade Effects of US Antidumping Actions Against China."
+  rockstar: false
+-
+  id: 38
+  name: "Yi"
+  surname: "Feng"
+  company: "(Claremont Graduate University)"
+  title: "What Attracts China’s Contracts to Latin America and the Caribbean? An Empirical Study of the Determinants of Chinese Contracts."
+  rockstar: false
+
+-
+  id: 39
+  name: "Caroline"
+  surname: "Schimanski"
+  company: "(Hanken School of Economics / UNU-WIDER)"
+  title: "Do Multinational Companies Shift Profits out of Developing Countries? - New Evidence."
+  rockstar: false
+
+-
+  id: 40
+  name: "Oscar"
+  surname: "Perello"
+  company: "(CLAPES-UC)"
+  title: "Democracia y Recursos Naturales en LatinoamÃ©rica: Evidencia tras el Commodity Boom de los 2000s."
+  rockstar: false
+-
+  id: 41
+  name: "Daniel"
+  surname: "Hernaiz"
+  company: "(Inter-American Development Bank)"
+  title: "A Structural Analysis of Commodity Price Fluctuations and Fiscal Performance."
+  rockstar: false
+
+-
+  id: 42
+  name: "Manuel"
+  surname: "Olave"
+  company: "(UPB)"
+  title: "Bolivia: Una Nueva Mirada Al Rol De Los Recursos Naturales En El Crecimiento Economico."
+  rockstar: false
+
+-
+  id: 43
+  name: "Francisco"
+  surname: "Galarza"
+  company: "(Universidad del Pacífico)"
+  title: "Trust and Trustworthiness in College: An Experimental Analysis."
+  rockstar: false
+-
+  id: 44
+  name: "Alexander"
+  surname: "Willen"
+  company: "(Cornell University)"
+  title: "The Long-run Effects of Teacher Strikes."
+  rockstar: false
+
+-
+  id: 45
+  name: "Fernando"
+  surname: "Velasquez"
+  company: "(Universidad Autónoma Metropolitana)"
+  title: "Distancia a la frontera tecnológica y educación: Alternativas de crecimiento econòmico para países en desarrollo."
+  rockstar: false
+
+-
+  id: 46
+  name: "Adriana"
+  surname: "Garcia"
+  company: "(University of Groningen)"
+  title: "The Impact of Microcredit: New Evidence from Sierra Leone."
+  rockstar: false
+-
+  id: 47
+  name: "Frank"
+  surname: "Hong Liu"
+  company: "(University of Glasgow)"
+  title: "Does Uniqueness In Banking Matter."
+  rockstar: false
+
+-
+  id: 48
+  name: "Alfredo"
+  surname: "Cuecuecha-Mendoza"
+  company: "(El Colegio de Tlaxcala)"
+  title: "Financial Inclusion, Technology and Entrepreneurship: an experiment in the state of Tlaxcala, Mexico."
+  rockstar: false
+
+-
+  id: 49
+  name: "Darwin"
+  surname: "Ugarte"
+  company: "(UPB)"
+  title: "Las Ferias Del Precio Justo Como Instrumento Para Controlar La Inflación De Alimentos En Bolivia."
+  rockstar: false
+-
+  id: 50
+  name: "Osvaldo"
+  surname: "Nina"
+  company: "(INESAD)"
+  title: "Percepción de la calidad de vida en las regiones metropolitanas de Bolivia."
+  rockstar: false
+
+-
+  id: 51
+  name: "Jorge"
+  surname: "Guillen"
+  company: "(ESAN)"
+  title: "SEM Analysis for Tourist Expenditure in an Emerging Country."
+  rockstar: false
+
+-
+  id: 52
+  name: "Omar"
+  surname: "Alburqueque"
+  company: "(Universidad del Pacífico)"
+  title: "The Trade-off Between Work and Leisure and the Voluntary Nature of Informal Employment."
+  rockstar: false
+-
+  id: 53
+  name: "Fernando"
+  surname: "Rios-Avila"
+  company: "(Levy Economics Institute)"
+  title: "The Effect of Immigration on Native-born Unemployed Transitions in the United States."
+  rockstar: false
+
+-
+  id: 54
+  name: "Sylvia"
+  surname: "Guillermo Peon"
+  company: "(Benemerita Universidad Autonoma De Puebla)"
+  title: "Efectos de los factores macroeconómicos e individuales sobre la movilidad socioeconómica en México."
+  rockstar: false
+
+-
+  id: 55
+  name: "Marcela"
+  surname: "Perticara"
+  company: "(Ilades-UAH)"
+  title: "The benefits of diversity: Peer effects in an adult training program in Chile."
+  rockstar: false
+-
+  id: 56
+  name: "Marcos"
+  surname: "Agurto Adrianzén"
+  company: "(Universidad de Piura)"
+  title: "Socioeconomic study group composition and early college academic performance: Experimental evidence from Peru."
+  rockstar: false
+
+-
+  id: 57
+  name: "Luz Karime"
+  surname: "Abadia"
+  company: "(Pontificia Universidad Javeriana)"
+  title: "A Widening Gap? A Gender-Based Analysis of Performance on the Colombian High School Exit Examination."
+  rockstar: false
+
+-
+  id: 58
+  name: "Raúl"
+  surname: "Fuentes"
+  company: "(Universidad Técnica Federico Santa María)"
+  title: "Bridging the Gaps: Credits, Adoption, and Inequality."
+  rockstar: false
+-
+  id: 59
+  name: "Fabricio"
+  surname: "Zanzzi"
+  company: "(Escuela Superior Politécnica del Litoral)"
+  title: "Relationship between income inequality, economic growth, education and poverty: an explanation through Kuznets for Chile."
+  rockstar: false
+
+-
+  id: 60
+  name: "Bjorn"
+  surname: "Nilsson"
+  company: "(Universitat Paris-Dauphine)"
+  title: "Parental depressive symptoms and the child labor-schooling nexus: evidence from Mexico"
+  rockstar: false
+
+-
+  id: 61
+  name: "Antonio"
+  surname: "Saravia"
+  company: "(Mercer University)"
+  # title: "Parental depressive symptoms and the child labor-schooling nexus: evidence from Mexico"
+  rockstar: false
+
+-
+  id: 62
+  name: "Fernand"
+  surname: "Wanderley"
+  company: "(Universidad Católica Boliviana)"
+  # title: "Parental depressive symptoms and the child labor-schooling nexus: evidence from Mexico"
+  rockstar: false
+
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}

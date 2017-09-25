@@ -50,20 +50,19 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
- # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/workshops/", text: "Workshops"}
- - {permalink: "/blog/call-for-papers", text: "Call for papers"}
+ # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
  # - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  # - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/organizers/", text: "Organizers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
-
-rightNavigationButtons:
- - {link: "/blog/call-for-papers", text: "Submit your paper"}
+# rightNavigationButtons:
+ # - {link: "/blog/call-for-papers", text: "Submit your paper"}
 
 # Hero Block
 heroImage: "hero_cover_14.jpg"
@@ -71,15 +70,15 @@ heroImage: "hero_cover_14.jpg"
 # eventDate: "Cochabamba-Bolivia | October 26 - 27 | 2017"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
 # typeoutFallback: "Universidad Privada Boliviana"
-heroButtons:
- - {link: "/blog/call-for-papers", text: "Submit Your Paper"}
+# heroButtons:
+ # - {link: "/blog/call-for-papers", text: "Submit Your Paper"}
  # - {permalink: "/#tickets", text: "Registration"}
 
 # About Block
 aboutTitle: "About BCDE8"
 aboutBlock:
  - {title: "Keynotes", image: "keynotes.jpg", text: "The largest academic conference on development economics in Bolivia." }
- - {title: "Flagship Reports", image: "roundtable.jpg", text: "Special invited speakers from IDB/CAF/World Bank will present their flagship reports to discuss pressing issues for economies in the region." }
+ - {title: "Policy roundtable", image: "roundtable.jpg", text: "Discuss current events affecting the region and interact with leading experts and academics about views and solutions." }
  - {title: "Parallel sessions", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
 
 # Statistic Block
@@ -95,8 +94,8 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "BCDE8 speakers"
+rockstarSpeakersCount: 2
+rockstarSpeakersTitle: "Keynote speakers"
 rockstarSpeakersButtonText: "Learn more about our speakers"
 
 # Location Block
@@ -117,12 +116,13 @@ mapMobileCenterCoordinates: "-17.396416, -66.218217"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueBigImage: "venue_upb_3.jpg"
+venueSmallImage1: "venue_upb_1.jpg"
+venueSmallImage2: "venue_upb_2.jpg"
+venueSmallImage3: "venue_upb_0.jpg"
+venueSmallImage4: "venue_upb_3.jpg"
 venueTitle: "UPB Campus Cochabamba"
-venueFeatures: ["Av Juan Pablo II, Cochabamba, Bolivia"," (+591-4) 426-8287"]
+venueFeatures: ["Modern campus", "Conference rooms equiped with HD projectors", "Located 20 min away from hotels"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -134,7 +134,7 @@ twitterFeed: "http://www.bcde8.org/tweetledee/favoritesjson.php"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Sponsors"
+partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -144,7 +144,7 @@ subscribeAction: "https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a59
 subscribeInfo: "Registration will be open around end of August. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Registration schedule"
+# ticketsTitle: "Registration schedule"
 # ticketsInfo: "Registration grant access to all conference sections and coffee brakes. Accommodation is NOT included in the registration fee."
 showTickets: false
 # ticketsOffers:
@@ -214,7 +214,7 @@ blogCommentsEnabled: false
 # discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "About SEBOL"
