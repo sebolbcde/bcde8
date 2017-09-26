@@ -12,7 +12,7 @@
 -
   id: 503
   title: "Conference Dinner"
-  # description: "For presenters"
+  description: "(Presenters only)"
   service: true
 -
   id: 201
