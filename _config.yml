@@ -250,8 +250,8 @@ directionDetailsWideCards:
    -
     title: "One day tours"
     links:
-     - {link: "http://www.bcde8.org/tours", text: "Ruinas de Incallajta"}
-     - {link: "http://www.bcde8.org/tours", text: "Incachaca"}              
+     - {permalink: "/tours/", text: "Ruinas de Incallajta"}
+     - {permalink: "/tours/", text: "Incachaca"}
    -
     title: "Recommended"
     links:
