@@ -104,7 +104,7 @@
   title: "B1. Environmental Economics I"
   description: ""
   subtype: presentation
-  speakers: [20, 33]
+  speakers: [19, 20, 33]
   # language: en
   # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -138,7 +138,7 @@
   title: "C1. Environmental Economics II"
   description: ""
   subtype: presentation
-  speakers: [31, 32, 21]
+  speakers: [32, 21]
 -
   id: 010
   title: "C2. Health Economics "
