@@ -42,8 +42,10 @@
   rockstar: true
 -
   id: 7
+  paperid: 137
   name: "Jorge"
   surname: "Davalos"
+  coauthors: "Hans Stehli (Universidad del Pacifico)"
   company: "(Universidad del Pacifico)"
   title: "Wage Discrimination as a Hidden Switching Regime: The case of Peru."
   bio: "The empirical evidence on wage discrimination focuses on the estimation of wage gaps with respect to particular characteristics that are observed to the econo- metrician such as ethnicity and gender. We revisit the wage gap interpretation by introducing the more realistic assumption that individuals that are supposed to be wage-discriminated according to one characteristic (gender), could in fact end up not being discriminated. Our methodology allows the identification of an overall discrimination wage-gap and the implied discrimination probabilites associated to observed and unobserved discrimination factors. The empirical analysis builds on a pooled cross section of workers of the Peruvian labor mar- ket from 2007 to 2011. We identify that women are the most likely to be wage discriminated with a probability of about 7%."
@@ -51,14 +53,17 @@
 
 -
   id: 8
+  paperid: 63
   name: "Paola L."
   surname: "Montero"
+  coauthors: "Wei Xiao (Southwestern University of Finance and Economics) and Yves Zenou (Stockholm University)"
   company: "(UPB)"
   title: "Search, labor supply, and unemployment of married women in cities."
   bio: "This paper studies female labor supply in an urban search matching framework. In our model, unemployed women allocate their time between searching for jobs and managing the household affairs, such as raising children or doing household chores. Employed women allocate their time between working, commuting, and housework. We show that there is a unique equilibrium. To study the properties of the equilibrium, we perform a comparative statics analysis and discuss how family context, firms factors frictions in the labor market, and urban factors geographical location affect the equilibrium. After introducing commuting time into the search-matching model, the equilibrium becomes inefficient even under the Hosios condition. Finally, we calibrate our model to France and the United States and show the effects of different policies such as housework subsidies, commuting subsidies, and unemployment subsidies."
   rockstar: false
 -
   id: 9
+  paperid: 114
   name: "Hernan"
   surname: "Naranjo"
   company: "(UPB)"
@@ -68,189 +73,254 @@
 
 -
   id: 10
+  paperid: 27
   name: "Jose Ignacio"
   surname: "Llodrá"
+  coauthors: "Cristián Cuevas (ESE Business School - Universidad de los Andes)"
   company: "(Clapes UC)"
   title: "Vertical Partisan Affinities and Incumbent's Electoral Advantage: Evidence from Chile."
+  bio: "Evidence on ‘incumbent’s effects’ has flourished but there hasn’t been much results in understanding what’s behind them. We estimate incumbents’ advantage for mayors in Chile and analyze how they are related to the vertical partisan affinity with the national government, shedding light on a financial advantage explanation to this phenomenon. We benefit from a rich dataset containing transfers from central government to municipalities related to two programs of high impact public works, which have a relevant degree of arbitrariness in the decision about the amounts transferred and about who receives them. This dataset let us get a deeper sense of electoral transfers by not relying on aggregate fiscal variables that much of the literature uses. Using the same RD approach, we estimate that the fact of being an incumbent of the same coalition of the national government explains a significant difference of around 29% in more municipal investment in public goods financed with fiscal funds. Moreover, for elections where there isn’t any partisan difference in the distribution of these funds, the electoral advantage disappears."
   rockstar: false
 
 -
   id: 11
+  paperid: 92
   name: "Michael"
   surname: "Keller"
+  coauthors: "Sambit Bhattacharyya (Univesity of Sussex) and Rabah Arezki (IMF)"
   company: "(University of Sussex)"
   title: "Resource Discovery and the Fortune of Political Leaders."
+  bio: "We investigate how giant and supergiant oil and mineral discoveries shape the political fortunes of national leaders using a large dataset of 1255 leaders in 158 countries over the period 1950 to 2010. We depart from the existing literature by using both ‘single risk’ and ‘multiple risk’ discrete time proportional hazard models. We find that mineral discoveries reduce risk for the incumbent in a ‘single risk model’ especially in a non-election year. In contrast oil discoveries reduce risk disproportionately more for the incumbent in countries with weak political institutions. The effects appear to be induced by actual income or rent rather than income expectations. In a ‘multiple risk model’ oil discovery significantly reduces the risk of losing office via military coup while resource (oil and minerals) discovery in general reduces the risk of resignation. Resource discovery does not seem to have any impact on the risk of election loss."
   rockstar: false
 -
   id: 12
+  paperid: 13
   name: "Christophe"
   surname: "Rault"
+  coauthors: "Thouraya Hadj Amor (Monastir University) and Ridha Nouira (Monastir University)"
   company: "(University of Orleans)"
   title: "Political Instability, Corruption and Real Exchange Rate: What can we learn from the CS-ARDL Approach for Emerging and Developing Countries?"
+  bio: "Even though political factors are cited in the theoretical literature as potential currency value determinants, few investigations have been conducted on the effect of these variables on the Real Exchange Rate (RER), notably in emerging and developing economies. With reference to the recently developed method of cross-section augmented ARDL approach (CS- ARDL), suggested by Chudik and Pesaran (2015) and the International Country Risk Guide (ICRG) as annual data over the period 1984-2014, we investigate the long run response of RER to political risks by testing whether non-economic variables contribute to exchange rate determinants in 31 emergent and developing countries. Our main findings show that corruption and political instability can affect RER in the long-run and that more unstable political systems and more corrupt economies depreciate their real exchange rate. However, their statistical significance is weak. Furthermore, our investigation of the thresholds beyond which the effect of the instability and corruption variation indicates that a variation over 30% of political stability leads to a RER appreciation of approximately 10%, and a -10% variation to a RER depreciation of 9%. Besides, a variation beyond 70% of corruption control entails a RER appreciation of 5%, while a negative variation of -60% depreciates REER by 6%."
   rockstar: false
 -
   id: 13
+  paperid: 115
   name: "Mauricio"
   surname: "Tejada"
+  coauthors: "Lucas Navarro (ILADES - UAH)"
   company: "(ILADES - UAH)"
   title: "On the Interaction between Public Sector Employment and Minimum Wage in a Search and Matching Model."
+  bio: "This paper incorporates a minimum wage to a search and matching model of the labor market with private and public sectors and two types of workers, high and low skilled. The model is structurally estimated using recent data for Chile, a country with a large fraction of employment in the public sector and a well known binding minimum wage. Results suggest a sizable productivity gap in favor of the private sector that, by a general equilibrum effect, is the main determinant of the bite of the minimum wage in both sectors observed in the data. Indeed, counterfactual experiments show that increasing productivity levels in the public sector to match those in the private sector has a large aggregate and distributive impact, reducing the fraction of minimum wage earners in the private sector almost by half. Our results highlight a previously unexplored margin of the effect of the minimum wage on the labor market."
   rockstar: false
 -
   id: 14
-  name: "Luis Fernando"
-  surname: "Corrales"
-  company: "(PUC-Chile)"
-  title: "On the Welfare and Distributional Effects of Implementing an Expenditure Fiscal Rule."
+  paperid: 41
+  name: "Daniel"
+  surname: "Hernaiz"
+  coauthors: "Sebastian Miller (Inter-American Development Bank) and Peter Pedroni (Williams College)"
+  company: "(Inter-American Development Bank)"
+  title: "A Structural Analysis of Commodity Price Fluctuations and Fiscal Performance."
+  bio: "A number of policy discussions in macroeconomics have to do with the impact of commodity price fluctuations on fiscal revenue and expenditure in commodity exporting countries. Commodity price movements, however, have different sources depending on the nature of economic shocks. This paper proposes a panel SVAR approach that addresses this issue in three stages. First, we identify three structural shocks, two at the global level and one at the commodity market level, that affect commodity prices. Second, we study the effect of these shocks on three country-specific macroeconomic variables, real revenue, real expenditure, and the nominal exchange rate. Third, we exploit the cross-sectional dimension of our system at the country and commodity level to study the interactions of those three variables in terms of building fiscal space and absorbing the impact of commodity price fluctuations after the occurrence of structural shocks."
   rockstar: false
 -
   id: 15
+  paperid: 77
   name: " Izabela"
   surname: "Sobiech"
   company: "(Sao Paulo School of Economics)"
   title: "Endogenous growth model with imperfect information and monetary policy."
+  bio: "In this paper I analyze the impact of micro level misallocation on aggregate growth in the economy. The inefficiency comes from imperfect information – intermediate goods producers make decisions based on noisy signals about the demand from the final good firm. I show that the rental rate of capital in such an economy is permanently lower, translating into slower (or even nil) long-run growth. For this purpose, I combine a Romer-style endogenous growth model with the model of misallocation of David, Hopenhayn, and Venkateswaran (2016). Such a formulation gives me the opportunity to consider also monetary policy, which is frequently seen as a remedy for information frictions in an economy. As an alternative to central bank’s actions I additionally introduce a sales tax, which, according to the preliminary results, seems to be the best solution to the misallocation problem."
   rockstar: false
 
 -
   id: 16
+  paperid: 25
   name: "Javier Alejandro"
   surname: "Rodríguez-Camacho"
   company: "(Pontificia Universidad Javeriana)"
   title: "Expert services and user reviews in a market for experience goods."
+  bio: "In this paper we develop a theoretical framework to study the role of expert services in a market for experience goods. We define these as goods whose quality becomes known to the consumers only after purchase. An expert offers to reveal information on the good’s quality to the consumers, in exchange for a fee. The market we examine is horizontally and vertically differentiated, with a good having a known feature (a type) and another that is unknown to the consumers (the quality). All consumers prefer a high quality good, with the utility derived from the type being match-dependent. We find expert services to increase consumers’ welfare, reducing their uncertainty and thus allowing for lower-type consumers to enter the market. The monopolist’s decisions remain impervious to the presence of the expert. Next we introduce user reviews in the form of a free-to-access rating of the good, written by consumers who had previously bought it and are currently out of the market. Due to technological and expertise limitations, the informational quality of user reviews is considered inferior to that of expert reviews. The presence of user reviews alters the composition of the market, allowing for high-type consumers to buy low-quality goods and viceversa."
   rockstar: false
-
 -
   id: 17
+  paperid: 139
   name: "Andres"
   surname: "Chive Herrera"
   company: "(Programa de las Naciones Unidas para el Desarrollo - PNUD)"
   title: "Movilidad economica en Bolivia: Una aplicacion empirica a traves de paneles sinteticos."
+  bio: "Bolivia ha presentado una acelerada reducción de pobreza en la última década, sin embargo, entre 2013 y 2015 los indicadores de pobreza han empezado a ralentizar su reducción e inclu- so han aumentado en el área urbana y ciudades capitales. En este contexto y para una mejor focalización de la política pública, es importante conocer los factores asociados a la dinámica que experimentan los hogares entre estratos de ingreso. Sin embargo, el análisis de movili- dad económica es limitado en países en desarrollo, principalmente por la no disponibilidad de datos de panel. En base a la metodología propuesta por [Dang y Lanjow, 2013] para la cons- trucción de paneles sintéticos a partir de encuestas de corte transversal, se estima una matriz de transición de pobreza en Bolivia para el periodo 2013-2015. Los principales resultados dan evidencia de la movilidad económica experimentada este periodo, particularmente descenden- te en el área urbana y ciudades capitales y ascendente en el área rural. Se observa una gran diferencia en las características de los hogares entre grupos de transición, identi􏰙cando así, factores de importancia detrás de la movilidad entre estratos de ingreso."
   rockstar: false
-
 -
   id: 18
+  paperid: 155
   name: "Darwin"
   surname: "Ugarte"
+  coauthors: "Gustavo Canavire-Bacarreza (EAFIT) and Luis Castro Peñarrieta (UPB)"
   company: "(UPB)"
   title: "Outliers in semi-parametric Estimation of Treatment Effects."
+  bio: "Average treatment effects estimands can present significant bias under the presence of outliers. Moreover, outliers can be particularly hard to detect, creating bias and inconsistency in the semi-parametric ATE estimads. In this paper, we use Monte Carlo simulations to demonstrate that semi-parametric methods, such as matching, are biased in the presence of outliers. Bad and good leverage points outliers are considered. The bias arises because bad leverage points completely change the distribution of the metrics used to define counterfactuals. Whereas good leverage points increase the chance of breaking the common support condition and distort the balance of the covariates and which may push practitioners to misspecify the propensity score. We provide some clues to diagnose the presence of outliers and propose a reweighting estimator that is robust against outliers based on the Stahel-Donoho multivariate estimator of scale and location. An application of this estimator to LaLonde’s (1986) data allows us to explain the Dehejia and Wahba (2002) and Smith and Todd (2005) debate on the inability of matching estimators to deal with the evaluation problem."
   rockstar: false
 
 -
   id: 19
+  paperid: 135
   name: "Victor"
   surname: "Gamarra Echenique"
   company: "(Pontificia Universidad Católica del Perú)"
+  coauthors: "José Carlos Orihuela (Pontificia Universidad Católica del Perú)"
   title: "Variegated dependence: The geographically differentiated economic outcomes of resource-based development in Peru, 2001-2015."
+  bio: "The economic impacts of resource-based development are distributed unevenly across national space, and not even mining regions experience economic development in the same way. We build on the methodology of Rehner et. al. (2014) to typify resource-based economic development in Peru in the period 2001- 2015 and compare it with the case of mineral-abundant Chile. What we find is a nuanced version of the same dependency-related resource curse phenomenon. With the commodity cycle: (i) export specialization is not the same in all places; (ii) regional growth volatility is much higher in Peru than in Chile; (iii) the Dutch disease does not clearly manifest itself; and therefore (iv) economic dependence within Peru is variegated. At the national level, gold-and-copper-dependent Peru is not as vulnerable as copper-dependent Chile to external shocks. At the subnational level, outside Lima in particular, dependence-related volatility can be very high for clusters of regions. The results of the quantitative analysis are attuned to a theoretical framework of variegated dependence, which, while acknowledging the centrality of the center-and-periphery supranational structure for economic development, attributes variation in resource curse phenomena to subnational differences across space and over time in economic-geography configurations and institutional regimes."
   rockstar: false
 
 -
   id: 20
+  paperid: 68
   name: "María"
   surname: "Castro Calisaya"
   company: "(Universidad Técnica de Oruro)"
   title: "Efectos del cambio climatico en el nivel de pobreza en la zona del altiplano de Bolivia: Analisis multitemporal aplicando sistemas de informacion geografica."
+  bio: "La distribución geográfica de la actividad económica en Bolivia, así como el comportamiento de los factores climáticos ha contribuido en las últimas décadas a un desarrollo desequilibrado, lo cual permite evidenciar la existencia de clusters de calidad de vida a nivel departamental, municipal y principalmente a nivel de cada zona geográfica de Bolivia.
+Los indicadores de pobreza, resultado de los procesos Censales, permiten observar, tanto el incremento de la población, así como las condiciones de vida de cada persona, considerando la metodología de las Necesidades Básicas Insatisfechas. Considerando que aproximadamente el 50% de la población se encuentra concentrada en la zona del altiplano según los resultados de los últimos tres censos, en el presente trabajo de investigación se considera como sujeto de estudio a ésta zona, y se presenta un análisis geoestadistico del grado de relación que tiene el cambio climático con el nivel de pobreza resultados de los procesos censales del año 1992, 2001 y 2012."
   rockstar: false
 -
   id: 21
+  paperid: 88
   name: "Cesar"
   surname: "Huaroto"
   company: "(Universidad Nacional de La Plata)"
+  coauthors: "José Carlos Orihuela (Universidad Nacional de La Plata) and Maritza Paredes (Universidad Nacional de La Plata)"
   title: "Dependent Local Development: The Restricted Linkage Effects of Mining on Agriculture in the Peruvian Andes, 1994-2012."
+  bio: "We find that the benefits of the last mining boom in Peru on local agriculture were few, scattered, and non-substantial. Drawing on the last two Agrarian censuses (1994 and 2012), we run difference-in-differences estimations to explore the impacts of mining on local agriculture. We explore the effects resulting from two treatments: (i) being a mining district and (ii) being a district rich in mining-related fiscal transfers. These two associated but distinct treatments closely correspond with two different analytic concepts: (i) productive-linkage effects and (ii) fiscal-linkage effects. While we find almost no evidence of direct productive-linkage effects, we do identify some positive indirect fiscal- linkage effects in land use, education and construction income. However, becoming a fiscally rich mining district is also associated with a reduction in non-mining income other than construction, and a remarkable increase in the perception of water pollution. Our results are robust to changes in control variables and changes in the definition of “mining district”. Overall, the evidence backs a diagnosis of the enclave form of resource curse for local economies in the Peruvian Andes: mineral-based economic development takes an enclave form, in which linkages with the agriculture-based local economy are restricted to the fiscal channel. Coupled with the high perception of environmental leakages, this quantitative analysis aids in an understanding of the widespread discontent with mining in the Peruvian Andes."
   rockstar: false
 -
   id: 22
+  paperid: 121
   name: "Ursula"
   surname: "Aldana"
   company: "(IEP)"
+  coauthors: "Javier Escobal (Grupo de Análisis para el Desarrollo)"
   title: "Internal migration and territorial wealth:  the effect of distance and agglomeration in Peru."
+  bio: "Studies that have looked at emigration rates and the development level of the area of origin have found a positive relation, at least for lower levels of development. Authors have argued that this pattern is explained by liquidity constraints. In this study we evaluate if geographic distance and agglomeration are factors that explain the positive relation that appears in the Peruvian data, for lower values of wealth. We use information of the National Census of 1993 and 2007 to estimate the effect of distance and agglomeration on migration and then estimate how these components change with wealth levels of the area of origin. Results show that agglomeration is an important factor behind the positive relation between wealth and emigration, for lower values of wealth. Thus, lower migration in poorer areas is partly explained by a lower profitability of migration, given that more promising areas are located at a greater distance."
   rockstar: false
 -
   id: 23
+  paperid: 122
   name: "Lykke E."
   surname: "Andersen"
   company: "(INESAD)"
+  coauthors: "Augustus Griffin (INESAD), Justus J. Krause (INESAD), and Gabriel Orduña Montekio (INESAD)"
   title: "Measuring Equality of Opportunity in Early Childhood:  A methodological proposal using Demographic and Health Surveys."
+  bio: "There is conceptually a big difference between inequality of opportunity and inequality of outcomes, and the policies needed to address the two different kinds of inequality are also very different. However, it is difficult to measure inequality of opportunity. This paper proposes a new measure of equality of opportunity, based on the importance of family background variables for nutritional status in early childhood. We applied the proposed methodology to 166 Demographic and Health Surveys, from 60 different countries, carried out between 1991 and 2015. What stands out most strongly from these estimations is the low level of equality of opportunity in Latin America compared to the rest of the world. Family background is much more important for children’s nutritional status in this region than in the rest of the world. In contrast, the countries of sub-Saharan Africa were found to have surprisingly high equality of opportunity, suggesting that in this region other factors than family background determine nutritional outcomes."
   rockstar: false
 -
   id: 24
-  name: "Florence"
-  surname: "Arestoff"
-  company: "(Université Paris Dauphine)"
-  title: "Demographic conditions at birth and children’s health outcomes."
+  paperid: 20
+  name: "Bjorn"
+  surname: "Nilsson"
+  company: "(Universitat Paris-Dauphine)"
+  title: "Parental depressive symptoms and the child labor-schooling nexus: evidence from Mexico"
   rockstar: false
+  bio: "Research in psychology has suggested that parental depression translates into bad parenting and worsened behavioral outcomes for children. In this article, I look at the effect of depression on child education and labor outcomes in Mexico. Using a rich panel data set and making use of violent assault as a source of exogenous vari- ation in depressive symptoms, I estimate the impact of a shock to parents’ mental health on a series of child outcomes. The findings suggest that worsened parental mental health increases the probability of grade repetition and market work for children. The effects are not driven by those children whose parents had the worst mental health status at the onset of the survey, and are robust to alternative specifi- cations. Given the documented extensive underutilization of mental health services in Mexico, public interventions in this domain have the potential to come with pos- itive externalities and be cost-efficient."
 -
   id: 25
+  paperid: 159
   name: "Carlos Gustavo"
   surname: "Machicado"
   company: "(INESAD)"
   title: "Determinantes de la Productividad Total de Factores en Bolivia entre 1950 y 2015."
+  bio: "Este paper analiza el crecimiento de largo plazo de Bolivia empleando la metodología de contabilidad del crecimiento entre 1950 y 2015. Se calculan 8 medidas de productividad total de factores (TFP) las cuales se diferencian por el empleo de diferentes combinaciones de factores de producción (capital y trabajo) ajustados por su calidad y su utilización. Luego, a diferencia de lo que típicamente se hace que es analizar los determinantes de la tasa de crecimiento del PIB per cápita, se analiza los determinantes de la productividad total de factores (TFP), poniendo énfasis en los factores relacionados con el contexto internacional (términos de intercambio y tipo de cambio real), y con el contexto institucional como ser el gasto público como indicador de distorsiones en la economía y la inflación como indicador de la estabilidad macroeconómica, entre otras variables. Para esto se emplea la técnica econométrica de general a específico."
   rockstar: false
 -
   id: 26
+  paperid: 118
   name: "Rolando"
   surname: "Caballero Martínez"
-  company: "(UNAM - CEMFI)"
+  company: "(UNAM)"
+  coauthors: "Ruth Alejandra Avalos Arcienega (EMI), Claudia Bohórquez Coro (UMSA), Benigno Caballero Claure (UTO)"
   title: "Elasticidades Tributarias De Corto Y Largo Plazo Para Los Principales Impuestos De Bolivia 1990-2016. Un Enfoque De Series De Tiempo Multivariado."
+  bio: "Este artículo tiene como objetivo proporcionar una medición de las elasticidades de los principales impuestos del sistema tributario en Bolivia en el periodo 1990:01 a 2016:12, de manera que permita dar señales sobre los efectos que se pueden percibir conforme sucedan los cambios en la economía y que contribuya al análisis de la situación fiscal del país. Las estimaciones de las elasticidades se obtienen por medio de la aplicación de modelos de corrección del error y vectores de cointegración y así se estiman las elasticidades de corto y largo plazo. Los resultados muestran que la elasticidad de largo plazo de los diferentes ingresos tributarios presentan en su mayoría un comportamiento elástico con respecto a sus bases tributarias, confirmando sensibilidad, importancia para la economía nacional y sostenibilidad de las diferentes recaudaciones impositivas analizadas en el presente documento."
   rockstar: false
 -
   id: 27
+  paperid: 132
   name: "Einar"
   surname: "Paz"
   company: "(Banco Central de Bolivia)"
   title: "Analisis del Ciclo Economico Boliviano con un Modelo Markov-Switching."
+  bio: "La clasificación de fases expansivas y recesivas del ciclo para cualquier economía suele ser difícil de determinar con claridad, sin embargo investigaciones en el marco de los modelos Markov-Switching con cambios de régimen permiten distinguir los puntos de inflexión con relativa facilidad. En este sentido, se estiman diferentes modelos Markov-Switching para la economía boliviana con el objeto de caracterizar su ciclo económico a través de la determinación de sus puntos de inflexión y asimetrías."
   rockstar: false
 
 -
   id: 28
+  paperid: 150
   name: "Cesar"
   surname: "Huaroto"
   company: "(Universidad Nacional de La Plata)"
+  coauthors: "José Luis Flor Toro (Northwestern University)"
   title: "Ten years after an Earthquake, what is left? New evidence on the destruction and reconstruction effects of Natural Disasters on Developing countries."
+  bio: "Abundant empirical evidence in development economics highlights the long-run negative effects of natural disasters or it effects on aggregate economic indicators. By contrast, much less is known about how a disaster-struck household’s socioeconomic welfare is affected, and how they manage to recover in the aftermath.
+We study the case of an 8.0 moment-magnitude Earthquake in central Peru in 2007, the strongest earthquake in the Pacific Coast since 1900. Using a DiD approach, we exploit fortunately-timed census data in 2005, 2007, and 2012, high-quality annual household surveys and data on public investment projects to document the short-term recovery dynamics in affected areas."
   rockstar: false
 
 -
   id: 29
+  paperid: 5
   name: "Gustavo"
   surname: "Canavire-Bacarreza"
   company: "(Universidad EAFIT)"
+  coauthors: "Julian Eduardo Diaz-Gutierrez (The World Bank) and Merlin M. Hanauer (Sonoma State University)"
   title: "Unintended consequences of conservation: estimating the causal effect of protected areas on violence in Colombia."
   rockstar: false
-
+  bio: "Protected areas are designed to conserve ecosystems and their services, but the restrictions they impose create the potential for unintended consequences. For instance, poverty advocates have long voiced concerns that protected areas might exacerbate poverty in surrounding communities. Here we examine another potential unintended consequence of protected areas: illegal activities. We use data from Colombia to estimate the impact that protected areas had on violence perpetuated by guerrilla groups. We find protected areas that were established prior to 2002 significantly increased the number of guerrilla attacks in affected municipalities during the surge of violence in the mid-2000s. Our results are robust to the choice of estimator and numerous additional tests. We find evidence that our average impact estimates are largely driven by protection in the most rural areas, and that guerrillas were using protected areas as havens to conduct their operations."
 -
   id: 30
+  paperid: 58
   name: "Akito"
   surname: "Kamei"
   company: "(University of Illinois at Urbana-Champaign)"
   title: "The Impact of Rainfall on Women/Child Domestic Labor Supply, Climate and Child Labor using Ugandan Panel Data 2009-2012."
   rockstar: false
+  bio: "This study investigates how rainfall affects household labor supply of domestic activities, by gender and age. Using the Ugandan annual panel household survey collected from 2009 to 2012 and monthly satellite rainfall data, this study reveals the causal impact of rainfall on domestic labor supply. The empirical results suggest that the decrease in within-spatial-area standard deviation of rainfall (precipitation z-score) by one increases the total number of hours that households spent on fetching water by 1.27 hours and decreases the time spent on agriculture by 3.84 hours. Heteroge- neous analysis revealed that the negative effect of rainfall on domestic labor is mostly incurred by children and women of all ages. In months where rainfall is lower than average, a decrease in rainfall is associated with increasing time for fetching water for women and children. Similarly, in months where rainfall is more than average, an increase in rainfall increases time for collecting firewood, especially for children age 5-9. The results highlight the negative impact of rainfall volatility and emphasize the importance of providing a stable water supply and assets such as modern cooking stove (LPG, Biomass)."
 -
   id: 31
+  paperid: 107
   name: "Javier"
   surname: "Aliaga"
-  company: "(ABCE y Universidad de Cartagena)"
+  company: "(ABCE)"
+  coauthors: "Andrés Escobar Espinoza (Universidad de Cartagena)"
   title: "Water Common Pool Resource Management: Intergenarational Field Evidence in Bolivia."
+  bio: "The Common Pool Resources (CPRs) are usually exploited one generation after another – meaning the prevalence of an intergetenarional link, this key dimension is often not take into account in field experiments. Given an intergenerational links for a CPRs, our first research question was: The subjects will increases their social preferences for the next generation? (intergenerational equity). The second one was: How the appropriators can contribute to the sustainability of the CPRs use?. The hypothesis is that ‘’intergenerational altruism” in a CPRs decreases exploitation as agents recognize that resource extraction not only creates negative externalities for the own generation, but also for all future generations. To probe this hypothesis we decide to conduct a field experiment in four communities located in the Bolivian department of Chuquisaca. The CPRs exploited in these communities is ‘’water’’ for farming activities. We want to study extraction behavior in farmer’s communities with installed dams in a context of multi-generational CPRs dynamic. Unfortunately our hypothesis was very optimistic, we verify that intergenerational link not mitigate the CPRs problem, but joint with ancestral arrangement of water managements, seems to be the best recipe."
   rockstar: false
 -
   id: 32
+  paperid: 149
   name: "Shaun"
   surname: "McRae"
   company: "(ITAM)"
+  coauthors: "Moussa Blimpo (The World Bank) and Jevgenijs Steinbuks (The World Bank)"
   title: "Electricity Access Charges and Tariff Structure in Sub-Saharan Africa."
+  bio: "Electrification rates in Sub-Saharan Africa are the lowest of any region in the world. In this paper we develop a model of household and electric utility behavior to describe how low access rates and high connection charges arise from regulated electricity tariffs being set too low. We use data from Uganda to estimate a household-level model of joint demand for energy consumption and energy source. Households choose between several fuel alternatives, including kerosene, grid electricity, and solar. We then use this demand model to analyze the incentives faced by the electric utility. When regulated tariffs are set too low, the utility loses money on each connected customer. Low electricity consumption by households also makes it difficult to recover the cost of providing a connection. For each possible choice of regulated tariff, we compute the optimal upfront connection charge that will maximize profits for the utility in its service territory. Higher tariffs are associated with lower optimal connection charges and higher electrification rates, though equilibrium electrification rates in our model are still much lower than 100 percent."
   rockstar: false
 
 -
   id: 33
+  paperid: 102
   name: "Jose Maria"
   surname: "Martinez"
   company: "(International Center for Tropical Agriculture)"
+  coauthors: "Ricardo Antonio Labarta (CIAT), Carolina Gonzalez (CIAT) and Diana C. Lopera (CIAT)"
   title: "Technology adoption among Bolivian rice farmers: A multivariate approach."
+  bio: "The adoption of agricultural technologies, and specially modern improved rice varieties (MIV) are significantly low in Bolivia with respect to the rest of Latin American countries. With a nationally representative sample of Bolivian rice grow- ers the determinants of adopting jointly complementary agricultural technologies are explored. Results reveal evidence supporting the hypothesis that the decision process on the adoption of MIV, machinery use, fertilizers, and chemical pest and weed control are closely related. Factors as farm size, education of the household head, distance to technological diffusion areas, access to farmers’ associations and extension services, show significant effects over the probability of adopting these technologies."
   rockstar: false
 -
   id: 34
+  paperid: 130
   name: "Inés"
   surname: "Lagrava"
   company: "(Independent Researcher)"
   title: "Mortalidad neonatal en el Estado Plurinacional de Bolivia: desigualdades territoriales en el acceso a los servicios de salud."
   rockstar: false
+  bio: "A pesar de los esfuerzos realizados para reducir la mortalidad neonatal en el Estado Plurinacional de Bolivia, y de la implementación del Seguro Universal Materno Infantil (SUMI), los datos revelan que el progreso ha sido más lento que lo logrado en cuanto a la reducción de la mortalidad infantil en general. En ese contexto, el interés principal de esta investigación es definir las características de la mortalidad neonatal en el país. El estudio parte del análisis econométrico de los datos de la Encuesta Nacional de Demografía y Salud (ENDSA) de 2008. El objetivo es visualizar cómo el lugar de procedencia incide en el riesgo de muerte del recién nacido. Los hallazgos revelan que, en el Estado Plurinacional de Bolivia, el riesgo de muerte neonatal está condicionado por el acceso a los servicios de salud, debido a las disparidades territoriales a nivel urbano y rural. Estas disparidades se traducen en barreras de acceso económicas, geográficas y de exclusión que disminuyen la equidad en el acceso y la utilización de los servicios de salud, refuerzan los determinantes sociales que inciden en la muerte del recién nacido y limitan el acceso a intervenciones oportunas y adecuadas en la atención materno-neonatal."
 -
   id: 35
   name: "Tonny"
@@ -261,196 +331,257 @@
 
 -
   id: 36
+  paperid: 57
   name: "Akito"
   surname: "Kamei"
   company: "(University of Illinois at Urbana-Champaign)"
   title: "Impact of a Father’s Mixed-Sex and Son Preference on Physical Domestic Violence: Evidence from India."
   rockstar: false
+  bio: "This study investigates whether a father’s preference regarding the sex of children affect the probability of the mother experiencing domestic violence. Using the random nature of the gender of newborn children, this study quantifies the causal impact of having a third same sex child on the probability that the mother will experience domestic violence. The empirical results from 2005-2006 India’s National Family Survey (NFHS) suggest that, among women who already have given birth to two girls, giving birth to a third girl increases the probability of domestic violence compared to giving birth to the son. After taking the possibility of sex-selective abortion into account, domestic violence indicators for households with three consecutive female births increase by 0.147, which is a 13.4% increase from the average score. For households with two boys, having a third boy, compared to a third girl, increases the domestic violence indicator by 0.135 (11.6% increase). The comparatively higher increase in domestic violence related to girls births for households with two previous girls reflects the son preference in India."
 
 -
   id: 37
+  paperid: 44
   name: "Antonio"
   surname: "Saravia"
   company: "(Mercer University)"
+  coauthors: "Minsoo Lee (Asian Development Bank) and Donghyun Park (Asian Development Bank)"
   title: "Trade Effects of US Antidumping Actions Against China."
   rockstar: false
+  bio: "Using data on US imports, classified at the 10-digit Harmonized System commodity level, we study the effects of all antidumping investigations initiated by the USA against China between 1998 and 2006. We find that antidumping actions cause a re- duction in the volume and value of imports from China as well as an increase in the price of those goods in the US market. Critically, however, we find that these effects are short-lived and dissipate approximately 2 years after the antidumping decision. Furthermore, antidumping actions against China prompt a substitution effect as they increase US imports from other countries. In general, our results cast doubt on the effectiveness of antidumping actions against China as mechanisms for protecting US producers."
 -
   id: 38
+  paperid: 73
   name: "Yi"
   surname: "Feng"
   company: "(Claremont Graduate University)"
   title: "What Attracts China’s Contracts to Latin America and the Caribbean? An Empirical Study of the Determinants of Chinese Contracts."
   rockstar: false
+  bio: "As China’s economy has reached the stage of “New Normal,” Chinese companies are increasingly seeking opportunities overseas. In the context of the slow recovery of world economy, China’s outward economic activities have found themselves in many parts of the globe, even in the Latin America and the Caribbean (LAC) region, some of the farthest places away from China. While many scholars have conducted extensive studies on China’s trade and FDI in Latin America the Caribbean, this paper focuses on Chinese contracts in LAC, a topic that has been rarely studied. Using both random-effects model and fixed-effects model and covering thirty LAC countries during 1998-2015, the multivariate panel regressions show that among numerous determinants, Chinese companies prefer to undertake projects in the countries that are economically more advanced, more populous, with a higher political rights score, with an expansionary economy, and last but not the least, with higher rent of natural resources (for the fulfilled amount of contracts)."
 
 -
   id: 39
+  paperid: 90
   name: "Caroline"
   surname: "Schimanski"
   company: "(Hanken School of Economics / UNU-WIDER)"
   title: "Do Multinational Companies Shift Profits out of Developing Countries? - New Evidence."
   rockstar: false
-
+  bio: "Despite recent news and initial non-causal empirical evidence on multinational companies (MNCs) shifting profits out of developing countries, this study is unable to provide significant causal evidence on shifting out of developing countries to any affiliates located in lower taxed, better credit rated, less corrupt, more developed countries or tax havens. Methodology wise this study however improves on previous ones, by expanding the geographic focus worldwide, shifting patterns, incentivizing factors and using more realistic effective rather than statutory tax rates. Moreover, it identifies profit-shifting through earnings shocks relative to comparable firms that are only passed on to those other MNC affiliates located in lower taxed countries. The study can thereby control for country-pair-year fixed effects instead of relying on infrequent potentially endogenous changes in tax rates and differences. Rather than rejecting the existence of profit- shifting, these results raise concern about time and sample robustness of studies using the Orbis database and urge for better data. Besides, the findings suggest that profit-shifting strategies have become more complex and likely not incorporating shifting opportunities arising from windfall profits."
 -
   id: 40
+  paperid: 136
   name: "Oscar"
   surname: "Perello"
   company: "(CLAPES-UC)"
+  coauthors: "Felipe Larraín (CLAPES-UC)"
   title: "Natural Resources in Latin America: Evidence from the 2000s commodity super-cycle."
   rockstar: false
+  bio: "Este trabajo estudia el impacto de las rentas de recursos naturales sobre los regímenes políticos en America Latina. La literatura ha documentado que mayores rentas de recursos están asociadas a menos democracia, particularmente en Africa y Medio Oriente, mientras que Latinoamérica ha sido señalada como una excepción a la maldición política de los recursos naturales. Sin embargo, tras el fuerte incremento de rentas durante el commodity boom de los 2000 diversos países latinoamericanos intensivos en recursos naturales han experimentado un deterioro en sus regímenes democráticos. Nuestra evidencia descriptiva sugiere que la relación entre rentas de recursos y democracia ha ido cambiando a través del tiempo, con un efecto aparentemente positivo durante los 70s y los 80s, que se comienza a revertir hacia los 90s y se vuelve negativo durante los 2000s. Utilizando una base de datos para 21 países latinoamericanos durante el período 1970-2010, nuestros resultados confirman que el impacto de las rentas de recursos naturales ha sido inestable a través del tiempo y, en particular, se encuentra que estos afectaron negativamente a las instituciones democráticas durante los 2000s."
 -
   id: 41
-  name: "Daniel"
-  surname: "Hernaiz"
-  company: "(Inter-American Development Bank)"
-  title: "A Structural Analysis of Commodity Price Fluctuations and Fiscal Performance."
+  paperid: 88
+  name: "Cesar"
+  surname: "Huaroto"
+  company: "(Universidad Nacional de La Plata)"
+  coauthors: "José Carlos Orihuela (Universidad Nacional de La Plata) and Maritza Paredes (Universidad Nacional de La Plata)"
+  title: "Dependent Local Development: The Restricted Linkage Effects of Mining on Agriculture in the Peruvian Andes, 1994-2012."
+  bio: "We find that the benefits of the last mining boom in Peru on local agriculture were few, scattered, and non-substantial. Drawing on the last two Agrarian censuses (1994 and 2012), we run difference-in-differences estimations to explore the impacts of mining on local agriculture. We explore the effects resulting from two treatments: (i) being a mining district and (ii) being a district rich in mining-related fiscal transfers. These two associated but distinct treatments closely correspond with two different analytic concepts: (i) productive-linkage effects and (ii) fiscal-linkage effects. While we find almost no evidence of direct productive-linkage effects, we do identify some positive indirect fiscal- linkage effects in land use, education and construction income. However, becoming a fiscally rich mining district is also associated with a reduction in non-mining income other than construction, and a remarkable increase in the perception of water pollution. Our results are robust to changes in control variables and changes in the definition of “mining district”. Overall, the evidence backs a diagnosis of the enclave form of resource curse for local economies in the Peruvian Andes: mineral-based economic development takes an enclave form, in which linkages with the agriculture-based local economy are restricted to the fiscal channel. Coupled with the high perception of environmental leakages, this quantitative analysis aids in an understanding of the widespread discontent with mining in the Peruvian Andes."
   rockstar: false
-
 -
   id: 42
+  paperid: 113
   name: "Manuel"
   surname: "Olave"
   company: "(UPB)"
+  coauthors: "Ricardo Nogales (UPB), Pamela Cordova (UPB) and Brisa Rejas (LSE)"
   title: "Bolivia: Una Nueva Mirada Al Rol De Los Recursos Naturales En El Crecimiento Economico."
   rockstar: false
+  bio: "Este artículo presenta un análisis cuantitativo de la relación entre el crecimiento económico boliviano y los precios de los recursos naturales predominantes en la estructura de las exportaciones entre los años 1970 y 2013, a ser: el estaño, el zinc, la plata, el oro y el gas natural. Aplicando el filtro estadístico propuesto por Christiano y Fitzgerald, identificamos las tendencias de estas variables para estudiar las relaciones de largo plazo exentas de fluctuaciones inducidas por factores coyunturales internos o externos a la economía boliviana. Esta investigación muestra inicialmente una revisión histórica de estas relaciones, de igual manera, identifica los períodos en los que cada recurso natural fue predominante en la estructura de las exportaciones bolivianas."
 
 -
   id: 43
+  paperid: 3
   name: "Francisco"
   surname: "Galarza"
   company: "(Universidad del Pacífico)"
   title: "Trust and Trustworthiness in College: An Experimental Analysis."
   rockstar: false
+  bio: "We use experimental data to examine the e§ect of ethnicity (foreign, indigenous, and mestizo) and gender on trust and trustworthiness in Peru. Comparing to the foreign group, we Önd that the indigenous group is more trusted (positive discrimination), while the mestizo group is less trustworthy (negative discrimination). Likewise, females are less trustworthy than males. We further analyze whether cognitive ability, the Big Five Personality Traits, and the social dominance orientation scale (SODS) can predict trust and trustworthiness. We Önd that the Cognitive Reáection Test score is positively correlated with trust, while the cumulative college GPA is correlated with trustworthiness. Lastly, neuroticism predicts trusting behavior, while agreeableness predicts trustworthy behavior. The SODS is not correlated with either trust or trustworthiness."
 -
   id: 44
+  paperid: 98
   name: "Alexander"
   surname: "Willen"
   company: "(Cornell University)"
   title: "The Long-run Effects of Teacher Strikes."
   rockstar: false
-
+  bio: "This paper exploits cross-cohort variation in the incidence of teacher strikes within and across provinces in Argentina in a difference-in-difference framework to identify how teacher strikes affect the long-run outcomes of students. We find robust evidence that teacher strikes worsens future labor market outcomes: being exposed to the average incidence of teacher strikes during primary school (88 days) reduces labor earnings and wages for 30-40 year olds by 2.9% and 2.2%, respectively. A back-of-the-envelope calculation shows that this amounts to an aggregate earnings loss of $712 million in Argentina annually. We also find evidence of an increase in unemployment, lower labor force participation and a reduction in the skill levels of the occupations to which students sort. Examining short- and long-run educational outcomes demonstrate that these adverse labor market effects are driven, at least in part, by a reduction in educational attainment. We also document statistically significant intergenerational treatment effects; children of individuals exposed to teacher strikes during primary school also experience adverse educational attainment effects."
 -
   id: 45
+  paperid: 142
   name: "Fernando"
   surname: "Velasquez"
   company: "(Universidad Autónoma Metropolitana)"
   title: "Distancia a la frontera tecnológica y educación: Alternativas de crecimiento econòmico para países en desarrollo."
+  coauthors: "Saúl Quispe (Universidad Autónoma Metropolitana)"
   rockstar: false
-
+  bio: "Analizamos la situación de las economías en desarrollo respecto a su posición en torno a la frontera tecnológica mundial. En base a Vandenbussche, et al. (2006) y Acemoglu, et al. (2006), presentamos un modelo matemático de crecimiento económico endógeno con capital humano y progreso técnico relacionado con el resto del mundo por medio de la distancia a la frontera tecnológica. El modelo permite identificar cómo se asignarán los recursos destinados a la inversión en capital humano de acuerdo a la proximidad de la economía a la frontera tecnológica mundial. Se plantea un modelo de panel de datos dinámico para 121 economías en el periodo 1970-2015. Los resultados muestran que la educación primaria es la que explica la tasa de crecimiento de la productividad total de factores por lo que se debería asignar mayores recursos a los sectores educativos secundario y terciario."
 -
   id: 46
+  paperid: 111
   name: "Adriana"
   surname: "Garcia"
   company: "(University of Groningen)"
   title: "The Impact of Microcredit: New Evidence from Sierra Leone."
+  coauthors: "Robert Lensink (University of Groningen), and Maarten Voors (Wageningen University)"
   rockstar: false
+  bio: "This paper contributes to the discussion of microcredit effectiveness by providing new rigorous evidence of microcredit impact in Sierra Leone. Using a cross-sectional double-difference approach, we control for self-selection and program placement bias. We find positive and significant impacts of microcredit on household income and total consumption. In contrast to other recent rigorous evaluations, our results suggest more transformative effects of microcredit which may be driven by the strong focus of the program on business development, the context in which the program was developed, and our research methodology."
 -
   id: 47
+  paperid: 59
   name: "Frank"
   surname: "Hong Liu"
   company: "(University of Glasgow)"
   title: "Does Uniqueness In Banking Matter."
+  coauthors: "Lars Norden (FGV), Fabrizio Spargoli (Erasmus University)"
   rockstar: false
+  bio: "Banking activities differ in their uniqueness. Common activities are performed by all banks, unique activities by few banks. We investigate whether and how the uniqueness of banking activities affects bank performance and systemic risk. First, banks performing more unique activities exhibit higher profitability and lower risk, controlling for size, diversification, and other key characteristics. Second, banks’ sensitivity to systemic risk displays an inversely U-shaped relation with activity uniqueness. Third, activity uniqueness in pre-crisis times has a positive impact on bank performance during the 2007-09 financial crisis. The evidence is consistent with recent theories showing that systemic diversity promotes financial stability."
 
 -
   id: 48
+  paperid: 76
   name: "Alfredo"
   surname: "Cuecuecha-Mendoza"
   company: "(El Colegio de Tlaxcala)"
   title: "Financial Inclusion, Technology and Entrepreneurship: an experiment in the state of Tlaxcala, Mexico."
   rockstar: false
-
+  bio: "This paper presents a Randomized Control Experiment (RCT) to study the causes behind the low level of financial development observed in Mexico. Results show that the provision of smartphones with bank accounts, as well as entrepreneurial skills and financial literacy training, generated statistically significant effects in measures of usage and quality, while they did not change the measures of depth or stability. The results also show positive effects on household income, household savings and micro business activities. These results signal the importance of new technologies to achieve universal financial inclusion and also point out the importance of providing training to households that engage in micro business activities."
 -
   id: 49
+  paperid: 154
   name: "Darwin"
   surname: "Ugarte"
   company: "(UPB)"
   title: "Las Ferias Del Precio Justo Como Instrumento Para Controlar La Inflación De Alimentos En Bolivia."
+  coauthors: "Reynaldo Ortiz (UPB)"
   rockstar: false
+  bio: "El presente trabajo resalta la importancia de los shocks en los precios de alimentos sobre el comportamiento inflacionario de Bolivia y demuestra la efectividad de las ferias del precio justo como instrumentos que pueden permitir controlar la inflación proveniente de alimentos. Se sugiere que los instrumentos no convencionales del Banco Central de Bolivia (BCB) han sido exitosos para controlar la inflación monetaria, sin embargo, y como se plasma en los mismos Informes de Política Monetaria los shocks de oferta en los precios de alimentos son un factor de riesgo importante que el BCB no puede controlar. Se sugiere que las ferias del precio justo pueden constituirse efectivas al respecto. Utilizando datos diarios de precios del 2016 se obtiene que la realización de las ferias del precio justo han permitido reducir la inflación de alimentos en este período en 0.1%"
 -
   id: 50
+  paperid: 161
   name: "Osvaldo"
   surname: "Nina"
   company: "(INESAD)"
   title: "Percepción de la calidad de vida en las regiones metropolitanas de Bolivia."
   rockstar: false
+  bio: "El objetivo del estudio es obtener un índice que permita evaluar la calidad de vida de las regiones metropolitanas con variables subjetivas, que miden la satisfacción de la población con relación a las dimensiones: empleo, salud, educación, vivienda, servicios básicos, infraestructura, transporte y seguridad. El índice propuesto es un indicador sintético que mide el grado de satisfacción percibida por los habitantes de un municipio o región metropolitana. Los resultados señalan que los habitantes de la región metropolitana de Santa Cruz están bien satisfechos con su calidad de vida; en cambio, los habitantes de las regiones de Cochabamba y La Paz están satisfechos. Además, se verifica que existe correlación con los indicadores objetivos tradicionales de bienestar o desarrollo, como: índice de desarrollo humano y necesidades básicas insatisfechas."
 
 -
   id: 51
+  paperid: 46
   name: "Jorge"
   surname: "Guillen"
   company: "(ESAN)"
   title: "SEM Analysis for Tourist Expenditure in an Emerging Country."
   rockstar: false
+  bio: "The following study attempts to examine the relationship between consumer preferences and expenditure in a Structural Equation Model (SEM) framework. We use data from a survey applied in an emerging country like Peru. There were 6772 respondents classified by sex, country of residence, education level and age. The foreign respondents specified their motive and preferences to travel as well as money spent. The SEM technique permit to find a relationship between the latter variables. This assessment is relevant for tourism policy makers since it will help to find the main drivers of expenditure by foreign visitors within an emerging country. Our study permitted to identify the motives to visit: Leisure, Business and Education and other as main drivers of touristic expenditure."
 
 -
   id: 52
+  paperid: 146
   name: "Omar"
   surname: "Alburqueque"
   company: "(Universidad del Pacífico)"
+  coauthors: "Jorge Dávalos (Universidad del Pacífico)"
   title: "The Trade-off Between Work and Leisure and the Voluntary Nature of Informal Employment."
   rockstar: false
+  bio: "The economic literature explains informal employment as a result of dual and competitive labor markets that lead to involuntary and voluntary informal employment respectively. Yet, only a few studies have attempted the empirical classification into both strands. Whilst the available studies propose classifications based on a wage maximization as- sumptions, we propose an econometric model that considers a utility maximization setup that depends on wages and leisure time. We apply our model to a sample of workers of the Peruvian labour market for 2013. The results indicate that a significant share of informal workers would be better off as formal employees. We also find evidence that formal workers preference for informal employment is determined not only by the counterfactual wages but for the significant utility gains that result from higher leisure time."
 -
   id: 53
+  paperid: 2
   name: "Fernando"
   surname: "Rios-Avila"
   company: "(Levy Economics Institute)"
+  coauthors: "Gustavo Canavire-Bacarreza (EAFIT)"
   title: "The Effect of Immigration on Native-born Unemployed Transitions in the United States."
   rockstar: false
+  bio: "Unemployed workers are the group most likely to be affected by the presence of immigrants in their local labor markets since they are actively competing for job opportunities. Yet, little is known about the effect of immigration on labor market opportunities of the unemployed. Using a sample of unemployed native-born citizens from the monthly Current Population Survey from 2001 to 2015 and state level immigration statistics, we employ a multinomial model in the framework of a discreet hazard model with competing risks to examine the effects of immigration on the transition out of unemployment. The results suggest that immigration does not affect attrition not the probabilities of native-born workers finding a job. Instead, we find that immigration is associated with smaller probabilities of remaining unemployed, but it is also associated with higher probabilities of workers leaving the labor force."
 
 -
   id: 54
+  paperid: 148
   name: "Sylvia"
   surname: "Guillermo Peon"
   company: "(Benemerita Universidad Autonoma De Puebla)"
   title: "Efectos de los factores macroeconómicos e individuales sobre la movilidad socioeconómica en México."
+  coauthors: "Alejandro Miguel Castañeda Valencia (UCM)"
   rockstar: false
+  bio: "En este trabajo de investigación presentamos un análisis sobre los factores macroeconómicos y características del individuo que afectan la probabilidad de que un individuo pueda descender, permanecer o avanzar en los estratos socioeconómicos. El modelo econométrico estimado proporciona además evidencia sobre cómo los cambios en variables macroeconómicas y cómo las características y logros individuales afectan la probabilidad de movilidad permitiendo así identificar cuáles incentivan y cuáles se convierten en barrera para promoverla. Los resultados de la estimación de los parámetros y efectos marginales indican que, para el caso de México, el crecimiento de la economía, el logro educativo y ocupacional del individuo son las principales variables que influencian las probabilidades de movilidad ascendente y que reducen las probabilidades de descenso. En el otro sentido actúan las variables que representan la política educativa y la apertura comercial. La evidencia para el caso de la política de seguridad social indica que ésta no influye en las probabilidades de movilidad estadísticamente hablando."
 
 -
   id: 55
+  paperid: 110
   name: "Marcela"
   surname: "Perticara"
   company: "(Ilades-UAH)"
+  coauthors: "Jeanne Lafortune (Pontificia Universidad Católica de Chile) and José Tessada (Pontificia Universidad Católica de Chile)"
   title: "The benefits of diversity: Peer effects in an adult training program in Chile."
   rockstar: false
+  bio: "We study how group composition in an existing training program for Chilean low-skilled adult women may impact its effectiveness. We experimentally separated the target population into groups according to their propensity to work and tested whether offering the program to homogenous groups is more efficient than implementing the program with heterogeneous participants. Because we kept group assignment secret we can estimate the pure effect of group composition, with less of a potentially planned response by the instructors. Our evi- dence suggests, then, that tracking per-se does not pay off for everyone, but there are benefits from having more diverse peers. In particular we find that non-household heads (relatively less experienced) placed in high-labor attachment groups benefits the most. We argue that these results may come from learning from peers, as network formation is unaffected."
 -
   id: 56
+  paperid: 12
   name: "Marcos"
   surname: "Agurto Adrianzén"
   company: "(Universidad de Piura)"
   title: "Socioeconomic study group composition and early college academic performance: Experimental evidence from Peru."
+  coauthors: "H. Fiestas (Universidad de Piura), W. Nuñez (Universidad de Piura), V. Quevedo (Virginia Tech) and S. Vegasa (Universidad de Piura)"
   rockstar: false
+  bio: "The Peruvian government program Beca18 provides public high school graduates in poverty and extreme poverty condition with full scholarships to study at Peru elite private universities (conditional on admission). We exploit random assignment to study-groups during the first college term among student cohorts that include Beca18 fellows in a local private university to evaluate how the academic interactions among students from extremely different socioeconomic status affect their academic performance. Our results indicate that students in study-groups composed by both regular (and relatively wealthy) students and Beca18 fellows on average perform better in weekly/biweekly individual tests than students in groups composed only by regular students or only by beca18 students. We also find evidence of heterogeneous effects: the performance of Beca18 fellows in mixed groups is an increasing function of an ex-ante (before college) indicator of academic quality, while the opposite is true for regular students. Our results also suggest that for regular students the effect mixed groups participation is decreasing in their own socioeconomic status, as measured by a standardized index of household income. We do not find statistically significant differences in academic performance between students in mixed and non-mixed groups during evaluation periods in which they are not required to interact in their randomly assigned study-groups."
 
 -
   id: 57
+  paperid: 9
   name: "Luz Karime"
   surname: "Abadia"
   company: "(Pontificia Universidad Javeriana)"
+  coauthors: "Gloria Bernal (Pontificia Universidad Javeriana)"
   title: "A Widening Gap? A Gender-Based Analysis of Performance on the Colombian High School Exit Examination."
   rockstar: false
+  bio: "In this article we provide evidence that girls underperform boys with similar characteristics in the Colombian high school exit examination. Using quantile regression technique, we find a significant gender score gap favoring boys that widens along the distribution. The Juhn-Murphy- Pierce decomposition shows that personal, family, and school characteristics explain a small part of the gaps whereas differences in returns play an important role. In addition, we show that the observed gap differs significantly by administrative regions, suggesting that specific characteristics of each region could be influencing the performance of the girls."
 
 -
   id: 58
-  name: "Raúl"
-  surname: "Fuentes"
-  company: "(Universidad Técnica Federico Santa María)"
-  title: "Bridging the Gaps: Credits, Adoption, and Inequality."
+  paperid: 113
+  name: "José"
+  surname: "Perés-Cajias"
+  company: "(Universidad Católica Boliviana)"
+  title: "PIBs regionales en Bolivia, 1950-2012. Una historia de no persistencia"
   rockstar: false
+  bio: "Este artículo presenta un análisis cuantitativo de la relación entre el crecimiento económico boliviano y los precios de los recursos naturales predominantes en la estructura de las exportaciones entre los años 1970 y 2013, a ser, el estaño, el zinc, la plata, el oro y el gas natural. Aplicando el filtro estadístico propuesto por Christiano y Fitzgerald, identificamos las tendencias de estas variables para estudiar las relaciones de largo plazo exentas de fluctuaciones inducidas por factores coyunturales internos o externos a la economía boliviana. Esta investigación muestra inicialmente una revisión histórica de estas relaciones, de igual manera, identifica los períodos en los que cada recurso natural fue predominante en la estructura de las exportaciones bolivianas. En este contexto, demostramos que el 83% y el 79% de la tendencia del crecimiento económico puede ser explicada, respectivamente, por la tendencia del precio del estaño en el período de 1970 a 1986 y por la tendencia del precio del gas natural en el período del 2000 al 2013. Encontramos, además, que en el período de 1987 a 1999, ninguno de los recursos naturales predominantes en las exportaciones del zinc, la plata y el oro, pueden explicar el 10% de la tendencia de crecimiento económico en el país."
+
 -
   id: 59
+  paperid: 124
   name: "Fabricio"
   surname: "Zanzzi"
   company: "(Escuela Superior Politécnica del Litoral)"
+  coauthors: "Jair Fernández (Universidad de Guayaquil)"
   title: "Relationship between income inequality, economic growth, education and poverty: an explanation through Kuznets for Chile."
   rockstar: false
+  bio: "This paper analyzes the development of the Chilean economy and its relation to income
+  inequality, per capita income, poverty and education, using time series data for the period between 1984 and 2013. It also shows the existence of a long-term equilibrium relationship between the analyzed variables, and then it consistently (i) tests the Kuznets hypothesis that postulates an inverted U relationship between inequality and income level, (ii) identifies the role of poverty throughout the entire development process; and (iii) determines whether education served as an equalizing mechanism of income. We show that Chile has been having a developing process similar to the Kuznets type, and we provide evidence suggesting that this process does not seem to have been driven by improvements in the level of education, begin of a certain irrelevance as an income-equalizing mechanism. Finally, we show that there is a persistent trade-off between inequality and poverty."
 
 -
   id: 60
+  paperid: 20
   name: "Bjorn"
   surname: "Nilsson"
   company: "(Universitat Paris-Dauphine)"
   title: "Parental depressive symptoms and the child labor-schooling nexus: evidence from Mexico"
   rockstar: false
-
+  bio: "Research in psychology has suggested that parental depression translates into bad parenting and worsened behavioral outcomes for children. In this article, I look at the effect of depression on child education and labor outcomes in Mexico. Using a rich panel data set and making use of violent assault as a source of exogenous vari- ation in depressive symptoms, I estimate the impact of a shock to parents’ mental health on a series of child outcomes. The findings suggest that worsened parental mental health increases the probability of grade repetition and market work for children. The effects are not driven by those children whose parents had the worst mental health status at the onset of the survey, and are robust to alternative specifi- cations. Given the documented extensive underutilization of mental health services in Mexico, public interventions in this domain have the potential to come with pos- itive externalities and be cost-efficient."
 -
   id: 61
   name: "Antonio"
@@ -466,6 +597,107 @@
   company: "(Universidad Católica Boliviana)"
   # title: "Parental depressive symptoms and the child labor-schooling nexus: evidence from Mexico"
   rockstar: false
+
+-
+  id: 63
+  name: "Oscar"
+  surname: "Molina"
+  company: "(Universidad Privada Boliviana)"
+  # title: "Parental depressive symptoms and the child labor-schooling nexus: evidence from Mexico"
+  rockstar: false
+
+-
+  id: 64
+  name: "Romulo"
+  surname: "Chumacero"
+  company: "(Universidad de Chile)"
+  title: "Skill vs Luck: The Recent Bonanza in Bolivia."
+  rockstar: false
+
+-
+  id: 65
+  name: "Ricardo"
+  surname: "Nogales"
+  company: "(UPB)"
+  # title: "Skill vs Luck: The Recent Bonanza in Bolivia"
+  rockstar: false
+
+-
+  id: 73
+  name: "Boris"
+  surname: "Branisa"
+  company: "(INESAD)"
+  # title: "Skill vs Luck: The Recent Bonanza in Bolivia"
+  rockstar: false
+
+-
+  id: 66
+  name: "Luis"
+  surname: "Castro"
+  company: "(UPB)"
+  # title: "Skill vs Luck: The Recent Bonanza in Bolivia"
+  rockstar: false
+-
+  id: 67
+  name: "Mariana"
+  surname: "Garcia-Schmidt"
+  company: "(Banco Central de Chile)"
+  title: "Revisiting the Exchange Rate Pass Through: A General Equilibrium Perspective"
+  coauthors: "Javier García-Cicco (Banco Central de Chile)"
+  rockstar: false
+  bio: "A large literature estimates the exchange rate pass-through to prices (ERPT) using reduced- form approaches, whose results are an important input at Central Banks. We study the usefulness of these empirical measures for actual monetary policy analysis and decision making, emphasizing two main problems that arise naturally from a general equilibrium perspective. First, while the literature describes a single ERPT measure, in a general equilibrium model the evolution of the exchange rate and prices will differ depending on the shock hitting the economy. Accordingly, we distinguish between conditional and unconditional ERPT measures, showing that they can lead to very different interpretations of the likely dynamic of prices after a given change in the exchange rate. Second, in a general equilibrium model the ERPT crucially depends on the expected behavior of monetary policy, but the empirical approaches in the literature cannot account for this. Thus, relying on these measures as a guide for monetary policy analysis is equivalent to believe that the actual behaviour of the exchange rate (and prices) will be independent from policy. We highlight the quantitative relevance of these distinctions by means of a DSGE model of a small and open economy with sectoral distinctions, real and nominal rigidities, and a variety of driving forces; es- timated using Chilean data."
+  discussant: "Pablo Cuba-Borda (Federal Reserve Board)"
+-
+  id: 68
+  name: "Jennifer"
+  surname: "Peña"
+  company: "(Banco Central de Venezuela)"
+  title: "Una Medida Sistématica del Riesgo de Liquidez"
+  coauthors: "Carolina Pagliacci (Banco Central de Venezuela)"
+  rockstar: false
+  bio: "Este trabajo estima el riesgo sistémico de liquidez en el mercado interbancario a partir del comportamiento de variables bancarias agregadas, macroeconómicas y de política que se relacionan con el proceso de creación primaria de dinero en la economía. Para ello, se utiliza la metodología de pasivos contingentes de Merton (1974) y Grey y Malone (2008). La información producida por el modelo (probabilidad y distancia al default) explican y mejoran la predicción tanto de los montos transados como de las tasas de interés pactadas en el mercado overnight. Para el caso venezolano, dada la importancia de la gestión fiscal en la creación primaria de dinero, se muestra que una mayor incidencia fiscal tiende a reducir la posibilidad de eventos de iliquidez. Un aumento del encaje legal aumenta la probabilidad de default al incrementar las obligaciones de los bancos en el corto plazo. "
+  discussant: "Mariana Garcia-Schmidt (Banco Central de Chile)"
+-
+  id: 69
+  name: "Jesus"
+  surname: "Bejarano"
+  company: "(Banco de la Republica - Colombia)"
+  title: "Taylor Rules and Sudden Stops in Small Open Economies"
+  coauthors: "Johannes Brumm (Karlsruhe Institute of Technology), Franz Hamann (BANREP) and Simon Scheidegger (University of Zurich)"
+  rockstar: false
+  discussant: "Jorge Ponce (Banco Central del Uruguay)"
+
+-
+  id: 70
+  name: "Jorge"
+  surname: "Ponce"
+  company: "(Banco Central del Uruguay)"
+  title: "Countercyclical Prudential Tools in an Estimated DSGE model"
+  coauthors: "Serafín Frache (Banco Central del Uruguay) and Javier García-Cicco (Banco Central de Chile)"
+  rockstar: false
+  bio: "We develop a DSGE model for a small, open economy with a bank- ing sector and endogenous default. The model is used to perform a re- alistic assessment of two macroprudential tools: countercyclical capital buffers (CCB) and dynamic provisions (DP). The model is estimated with data for Uruguay, where dynamic provisioning is in place since early 2000s. In general, while both tools force banks to build buffers, we find that DP seems to outperform the CCB in terms of smooth- ing the cycle. We also find that the source of the shock affecting the financial system matters to discuss the relative performance of both tools. In particular, given a positive external shock the ratio of credit to GDP decreases, which discourages its use as an indicator variable to activate countercyclical regulation."
+  discussant: "Elmer Sánchez (Banco Central de la Reserva del Perú)"
+
+-
+  id: 71
+  name: "Elmer"
+  surname: "Sánchez"
+  company: "(Banco Central de la Reserva del Perú)"
+  title: "Mortgage Credit: Lending and Borrowing Constraints in a DSGE Framework"
+  rockstar: false
+  bio: "This paper develops a Dynamic Stochastic General Equilibrium (DSGE) framework to evaluate the relative importance of the easing of lending and borrowing constraints in mortgage credit markets for business cycle fluctuations in small open emerging economies. Credit markets are characterized by partial dollarization and are subject to demand shocks, positive innovations to stochastic loan-to-value ratios imposed on borrowers, and supply shocks, negative innovations to stochastic bank capital-to-asset ratios imposed on financial intermediaries. In addition, the model features a set of real and nominal domestic shocks to demand, productivity, and fiscal and monetary policy, as well as foreign shocks. The model is calibrated and estimated using data on the Peruvian economy. A historical decomposition conducted on household leverage ratios reveals that these variables’ cyclical dynamics were mainly driven by borrowing constraint shocks or credit demand shifts, while lending constraint shocks played a residual role. Counterfactual simulations also provide evidence in favor of this channel: turning off the borrowing constraint shocks significantly attenuates the fluctuations of leverage ratios from their steady-state levels. The importance of the demand channel in Peru is consistent with mortgage demand-boosting public programs enacted in the 2000s. While applied in the Peruvian context here, the framework is easily adaptable to the historical evolution of credit markets in a large variety of emerging market economies."
+  discussant: "Jesus Bejarano (Banco de la Republica - Colombia)"
+
+-
+  id: 72
+  name: "Joab"
+  surname: "Valdivia"
+  company: "(Banco Central de Bolivia)"
+  title: "Evaluando la interacción de la política monetaria y fiscal a través de un DSGE-VAR"
+  rockstar: false
+  bio: "La coordinación de la política economía toma relevancia desde la crisis financiera de 2008, el cual devela la influencia de instrumentos de la política fiscal como factores influyentes en el incremento del nivel de precios (Rubio et al, 2007). A finales de 2014, la economía boliviana a pesar de enfrentar shocks externos negativos (caída del precio del petróleo), registra un crecimiento económico elevado en la región de Latinoamérica, la política monetaria fue dirigida a mantener la tasa de títulos públicos cercanas a cero y elevar los niveles de liquidez en la economía (política monetaria expansiva). Por parte del manejo de la política fiscal se incrementó el gasto en inversión pública, dando como resultado una elevación del multiplicador fiscal. En resumen, las características de la economía boliviana en los últimos años generan la necesidad de evaluar la coordinación de política monetaria y fiscal. La estructura de un Modelo de Equilibrio General Dinámico Estocástico (DSGE) ayudo a develar la coordinación entre dos tipos de reglas monetarias (regla de Taylor y regla de McCallum) y una regla fiscal adicional, dado que a brotes inflacionarios la política monetaria y fiscal actúan de manera contracíclica a la elevación del nivel de precios, se evidencia que ambas políticas están sujetas en función al comportamiento de la otra (à la Leeper)."
+  discussant: "Daniel Hernaiz (Inter-American Development Bank)"
+
 
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}

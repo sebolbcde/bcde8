@@ -3,7 +3,7 @@
   elements:
       - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "bid-logo2.svg"}
       - {name: "FSD Network", description: "IDB's Financial Stability and Development Group", link: "https://http://www.iadb.org/en/research-and-data/financial-stability-and-development-group,9834.html", imageUrl: "EDF-Logo.svg"}
-      - {name: "Center for Research on Economics and Finance (CIEF)", description: "Centro de Investigaciones Económicas y Financieras (Cief)​​", link: "http://www.eafit.edu.co/cief", imageUrl: "cief-logo.svg"}
+      - {name: "Center for Research on Economics and Finance (CIEF)", description: "Centro de Investigaciones Económicas y Financieras (Cief)​​", link: "http://www.eafit.edu.co/cief", imageUrl: "EAFIT-logo.svg"}
 # -
 #   group: "With support of"
 #   elements:

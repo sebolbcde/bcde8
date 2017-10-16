@@ -29,7 +29,9 @@
 
 # Coffee Break
     - {
-    	sessionIds: [501]
+    	sessionIds: [501],
+      startTime: "10:30",
+      endTime: "11:00"
     }
 #   - {title: "Parallel Sessions A", color: "#90be4e"}
     - {
@@ -44,7 +46,9 @@
     }
 # Lunch Break
     - {
-    	sessionIds: [502]
+    	sessionIds: [502],
+      startTime: "12:30",
+      endTime: "14:00"
       }
 
 # Parallel Session B
@@ -54,11 +58,13 @@
       endTime: "15:30"
     }
     - {
-      sessionIds: [005, 006, 007, 008]
+      sessionIds: [005, 006, 007, 008, 020]
     }
 # Coffee Break
     - {
-    	sessionIds: [501]
+    	sessionIds: [504],
+      startTime: "15:30",
+      endTime: "16:00"
     }
 # Flagship Session
     - {
@@ -106,16 +112,18 @@
     - {
 #    	startTime: "9:00",
 #    	endTime: "10:30",
-    	sessionIds: [009, 010, 011, 012]
+    	sessionIds: [009, 010, 011, 014, 021]
     }
 # Coffee Break
     - {
-    	sessionIds: [501]
+    	sessionIds: [501],
+      startTime: "10:30",
+      endTime: "11:00"
     }
 
 # Flagship Session 2
     - {
-    	sessionIds: [402],
+    	sessionIds: [405],
       startTime: "11:00",
       endTime: "12:00"
     }
@@ -126,14 +134,16 @@
 
 # Lunch Break
     - {
-    	sessionIds: [502]
+    	sessionIds: [502],
+      startTime: "12:00",
+      endTime: "13:30"
     }
     # - {
     #   startTime: "12:00",
     #   endTime: "13:30"
     # }
 
-# Parallel Sessions
+# Parallel Sessions D
     - {
     	sessionIds: [301],
       startTime: "13:30",
@@ -142,11 +152,13 @@
     - {
 #     startTime: "13:30",
 #     endTime: "15:00",
-        sessionIds: [013, 014, 015, 016]
+        sessionIds: [013, 012, 015, 016,022]
     }
 # Coffee Break
     - {
-    	sessionIds: [501]
+    	sessionIds: [501],
+      startTime: "15:00",
+      endTime: "17:30"
     }
 
 # Parallel Sessions E
@@ -159,11 +171,11 @@
     - {
 #        startTime: "15:30",
 #        endTime: "17:00",
-        sessionIds: [017, 018, 019]
+        sessionIds: [017, 018, 019,023]
     }
 # Keynote Session
     - {
-    	sessionIds: [401],
+    	sessionIds: [403],
       startTime: "17:00",
       endTime: "18:00"
     }
@@ -174,7 +186,9 @@
 
 # Closing Ceremony
     - {
-    	sessionIds: [203]
+    	sessionIds: [203],
+      startTime: "18:00",
+      endTime: "20:00"
     }
     # - {
     #   startTime: "18:15",

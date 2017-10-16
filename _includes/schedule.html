@@ -47,6 +47,9 @@
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h6  align="left" class="slot-title" itemprop="name">{{ session.title }}</h6>
+                                        {% if session.description != null %}
+                                          <h6  align="left" class="slot-title" itemprop="name">{{ session.description }}</h6>
+                                        {% endif %}
                                         <h6 class="name">
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
@@ -54,8 +57,10 @@
                                                     <!-- <p align="left">
                                                       <span>{{ speaker.name }} {{ speaker.surname }} <span>{{ speaker.company }}</span></span>
                                                     </p> -->
-                                                    <p align="left">{{ speaker.name }} {{ speaker.surname }} {{ speaker.company }}: {{ speaker.title }}
-                                                    </p>
+                                                    <p align="left" style="font-size:65%;">{{ speaker.title }} <strong> {{ speaker.name }} {{ speaker.surname }} {{ speaker.company }} </strong> </p>
+                                                        {% if speaker.discussant != null %}
+                                                        <p align="left" style="font-size:65%;"> Discussant: {{ speaker.discussant }} </p>
+                                                        {% endif %}
                                                     {% endif %}
                                                 {% endfor %}
                                             {% endfor %}
