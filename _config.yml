@@ -61,8 +61,8 @@ navigationLinks:
  # - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/organizers/", text: "Organizers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
-# rightNavigationButtons:
- # - {link: "/blog/call-for-papers", text: "Submit your paper"}
+rightNavigationButtons:
+ - {link: "/blog/registration", text: "Register"}
 
 # Hero Block
 heroImage: "hero_cover_14.jpg"
@@ -70,8 +70,8 @@ heroImage: "hero_cover_14.jpg"
 # eventDate: "Cochabamba-Bolivia | October 26 - 27 | 2017"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
 # typeoutFallback: "Universidad Privada Boliviana"
-# heroButtons:
- # - {link: "/blog/call-for-papers", text: "Submit Your Paper"}
+heroButtons:
+ - {link: "/blog/registration", text: "Register Now"}
  # - {permalink: "/#tickets", text: "Registration"}
 
 # About Block
