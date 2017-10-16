@@ -158,7 +158,7 @@
     - {
     	sessionIds: [501],
       startTime: "15:00",
-      endTime: "17:30"
+      endTime: "15:30"
     }
 
 # Parallel Sessions E
