@@ -70,7 +70,7 @@
     - {
     	sessionIds: [402],
       startTime: "16:00",
-      endTime: "17:00"
+      endTime: "17:30"
     }
     # - {
     #   startTime: "16:30",
@@ -79,7 +79,7 @@
 # Conference Dinner
     - {
     	sessionIds: [503],
-      startTime: "18:30"
+      startTime: "19:30"
     }
     # - {
     #   startTime: "18:30"
