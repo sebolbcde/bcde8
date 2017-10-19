@@ -2,14 +2,14 @@
   group: "Premium Sponsors"
   elements:
       - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "bid-logo2.svg"}
-      - {name: "COSUDE", description: "Cooperacion Suiza para el Desarrollo", link: "https://http://www.iadb.org/en/research-and-data/financial-stability-and-development-group,9834.html", imageUrl: "COSUDE-Logo.svg"}
+      - {name: "COSUDE", description: "Cooperacion Suiza para el Desarrollo", link: "https://www.eda.admin.ch/deza/es/home/paises/bolivia.html", imageUrl: "COSUDE-logo.svg"}
       - {name: "Universidad EAFIT", description: "EAFIT y Centro de Investigaciones Económicas y Financieras (Cief)​​", link: "http://www.eafit.edu.co/cief", imageUrl: "EAFIT-logo.svg"}
 
 -
   group: "With support of"
   elements:
       - {name: "FSD Network", description: "IDB's Financial Stability and Development Group", link: "https://http://www.iadb.org/en/research-and-data/financial-stability-and-development-group,9834.html", imageUrl: "EDF-Logo.svg"}
-      - {name: "El Faro", description: "Blog de Economía", link: "https://http://www.iadb.org/en/research-and-data/financial-stability-and-development-group,9834.html", imageUrl: "FARO-Logo.svg"}
+      - {name: "El Faro", description: "Blog de Economía", link: "https://www.faroeconomics.org", imageUrl: "FARO-logo.svg"}
     # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
     # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
 # -
