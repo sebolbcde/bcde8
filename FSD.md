@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workshop on New Modeling Challenges for Central Banks in Latin America
-permalink: /FSD/
+permalink: /fsd/
 isStaticPost: true
 image: fsdimg.jpg
 ---
