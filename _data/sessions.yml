@@ -159,8 +159,8 @@
   speakers: [46, 47, 48]
 -
   id: 021
-  title: "C5. Monetary Policy in Emerging Economies"
-  description: ""
+  title: "C5. Monetary Policy in Emerging Economies (FSD Invited Session)"
+  description: "This is an invited session co-organized by the IDB’s Financial Stability and Development (FSD) network of South American Central Banks and and the 8th Bolivian Conference on Development Economics"
   subtype: Invited
   speakers: [67, 68]
 
@@ -190,8 +190,8 @@
   speakers: [28, 29, 30]
 -
   id: 022
-  title: "D5. Financial Frictions in Emerging Economies I"
-  description: ""
+  title: "D5. Financial Frictions in Emerging Economies I (FSD Invited Session)"
+  description: "This is an invited session co-organized by the IDB’s Financial Stability and Development (FSD) network of South American Central Banks and and the 8th Bolivian Conference on Development Economics"
   subtype: Invited
   speakers: [69, 70]
 
@@ -215,7 +215,7 @@
   speakers: [61,62,63,73]
 -
   id: 023
-  title: "E4. Financial Frictions in Emerging Economies II"
-  description: ""
+  title: "E4. Financial Frictions in Emerging Economies II (FSD Invited Session)"
+  description: "This is an invited session co-organized by the IDB’s Financial Stability and Development (FSD) network of South American Central Banks and and the 8th Bolivian Conference on Development Economics"
   subtype: Invited
   speakers: [71, 72]

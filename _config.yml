@@ -50,8 +50,9 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/fsd/", text: "FSD Workshop"}
  - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/workshops/", text: "Workshops"}
  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
