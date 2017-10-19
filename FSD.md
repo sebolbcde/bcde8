@@ -25,10 +25,10 @@ The workshop will be hosted by the 8th Bolivian Conference on Development Econom
 
 ###### 9:00 - 10:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monetary Policy in Emerging Economies: New Modeling Challenges (Parallel Session C5)
 
-* **Mariana Garcia-Schmidt** (BCCh) and Javier Garcia-Cicco (BCCh): “Revisiting the Exchange Rate Pass Through”
+* **Mariana Garcia-Schmidt** (BCCh) and Javier Garcia-Cicco (BCCh): “Revisiting the Exchange Rate Pass Through”.
 Discussant: **Pablo Cuba-Borda** (FRB)
 
-* Carolina Pagliacci (BCV) and **Jennifer Peña** (BCV): "Una medida sistémica del riesgo de liquidez”
+* Carolina Pagliacci (BCV) and **Jennifer Peña** (BCV): "Una medida sistémica del riesgo de liquidez”.
 Discussant: **Mariana Garcia-Schmidt** (BCCh)
 
 &nbsp;
@@ -51,7 +51,7 @@ Discussant: **Mariana Garcia-Schmidt** (BCCh)
 
 ###### 15:30 -17:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monetary Policy and Financial Frictions in Emerging Economies (Parallel Session D4)
 
-* **Elmer Sánchez** (BCRP): “Mortgage Credit: Lending and Borrowing Constraints in a DSGE Framework”
+* **Elmer Sánchez** (BCRP): “Mortgage Credit: Lending and Borrowing Constraints in a DSGE Framework”.
 Discussant: **Jesus Bejarano** (BANREP)
 
 * **Joab Valdivia** (Central Bank of Bolivia): “Evaluando la interacción de la política monetaria y fiscal a través de un DSGE-VAR”. Discussant: **Daniel Hernaiz** (IDB)
