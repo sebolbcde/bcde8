@@ -66,7 +66,7 @@
   title: "A1. Labor Economics I"
   description: ""
   subtype: presentation
-  speakers: [7, 8, 9]
+  speakers: [22, 8, 9]
   # language: en
   # complexity: "Intermediate"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -85,7 +85,7 @@
   title: "A3. Dynamic Macroeconomics"
   description: ""
   subtype: presentation
-  speakers: [13, 14, 15]
+  speakers: [13, 14,7]
   # language: en
   # complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -94,7 +94,7 @@
   title: "A4. Topics in Development Economics"
   description: ""
   subtype: presentation
-  speakers: [16, 17, 18]
+  speakers: [17, 18, 23]
   # language: uk
   # complexity: "Beginner"
   # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -109,27 +109,27 @@
   # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 006
-  title: "B2. Development and Demographics"
-  description: ""
-  subtype: presentation
-  speakers: [22, 23]
+# -
+#   id: 006
+#   title: "B2. Development and Demographics"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
 -
   id: 007
-  title: "B3. Natural Resources and Development"
+  title: "B2. Natural Resources and Development"
   description: ""
   subtype: presentation
   speakers: [40, 41, 42]
 -
   id: 008
-  title: "B4. Labor Economics II"
+  title: "B3. Labor Economics II"
   description: ""
   subtype: presentation
   speakers: [52, 53, 54]
 -
   id: 020
-  title: "B5. UPB Invited Session"
+  title: "B4. UPB Invited Session"
   # description: "Moderator: Boris Branisa"
   subtype: invited
   speakers: [64,65,66,73]
@@ -206,7 +206,7 @@
   title: "E2. Topics in Development Economics III"
   description: ""
   subtype: presentation
-  speakers: [58, 59]
+  speakers: [16,58, 59]
 -
   id: 019
   title: "E3. Debate Session: Does Income Distribution Matter?"

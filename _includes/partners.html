@@ -15,18 +15,18 @@
                 {% endfor %}
             </ul>
              {% endfor %}
-            <h3>{{ site.partnersTitle }}</h3>
+          <h5> The generosity of the following institutions makes this conference possible: </h5>
             {% for partner in site.data.partners %}
+            <h5>{{ partner.group }}</h5>
             <!-- <h5>{{ partner.group }}</h5> -->
-            <h6> The generosity of the following institutions makes this conference possible: </h6>
             <ul class="list-inline">
-                <!-- {% for element in partner.elements %} -->
+                {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
                         <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
-                <!-- {% endfor %} -->
+                {% endfor %}
             </ul>
             {% endfor %}
             <!-- <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a> -->
