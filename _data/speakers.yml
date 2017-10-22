@@ -587,6 +587,7 @@ We study the case of an 8.0 moment-magnitude Earthquake in central Peru in 2007,
   name: "Antonio"
   surname: "Saravia"
   company: "(Mercer University)"
+  bio: "Antonio Saravia holds a PhD in Economics from Arizona State University and is Professor of Economics and Director of the BB&T Research Center at Mercer University. His work focuses on New Institutional Economics, Political Economy and the Determinants of Economic Freedom."
   # title: "Parental depressive symptoms and the child labor-schooling nexus: evidence from Mexico"
   rockstar: false
 
@@ -595,6 +596,7 @@ We study the case of an 8.0 moment-magnitude Earthquake in central Peru in 2007,
   name: "Fernand"
   surname: "Wanderley"
   company: "(Universidad Católica Boliviana)"
+  bio: "Fernanda Wanderley holds a Doctorate in Sociology from Columbia University at the City of New York and is the Director of the Socio-Economic Research Institute at the Bolivian Catholic University (IISEC-UCB). She  has been carrying extensive research on Bolivian and Latin American socio-economic issues."
   # title: "Parental depressive symptoms and the child labor-schooling nexus: evidence from Mexico"
   rockstar: false
 
@@ -627,6 +629,7 @@ We study the case of an 8.0 moment-magnitude Earthquake in central Peru in 2007,
   name: "Boris"
   surname: "Branisa"
   company: "(INESAD)"
+  bio: "Boris Branisa holds a Ph.D. in Economics from the University of Göttingen, Germany. He works as a senior researcher at INESAD. His main research interests are Development Economics, Applied Econometrics, and Impact Evaluation."
   # title: "Skill vs Luck: The Recent Bonanza in Bolivia"
   rockstar: false
 

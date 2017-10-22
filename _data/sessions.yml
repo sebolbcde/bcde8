@@ -211,6 +211,7 @@
   id: 019
   title: "E3. Debate Session: Does Income Distribution Matter?"
   # description: "Moderator: Boris Branisa"
+  description: "This session is organized as an academic debate about the question “Does income distribution matter?” This has always been a tremendously important question. If the answer is yes then the gates are open for a large portfolio of public policies. If the answer is no, then the role of the government is much smaller. The audience will vote yes or no via Twitter before and after hearing the opposing arguments. Fernanda Wanderley and Oscar Molina will present the arguments in favor of answering the question affirmatively and Antonio Saravia the arguments against that. Boris Branisa will be the moderator."
   subtype: invited
   speakers: [61,62,63,73]
 -
