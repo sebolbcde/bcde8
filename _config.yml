@@ -257,7 +257,7 @@ directionDetailsWideCards:
     title: "Venue Details"
     links:
      - {link: "http://www.upb.edu/en/", text: "UPB Facilities"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "UPB Campus Map"}
+     - {link: "/assets/UPBCampusMap.jpg", text: "UPB Campus Map"}
 
 # Hackathon
 hackathonTitle: "Pre-conference Workshops"
