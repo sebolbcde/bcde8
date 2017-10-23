@@ -16,4 +16,4 @@ After October 21st 2017, registration is 250 Bs (about 36USD) for students and 3
 
 Registration includes access to all conference events: plenary sessions, parallel sessions, coffee breaks, lunch and farewell cocktail.
 
-![image-title-here](/img/posts/Banner_10_dias.jpg){:class="img-responsive"}
+![image-title-here](/img/posts/Banner_Incripciones.jpg){:class="img-responsive"}
