@@ -237,7 +237,7 @@ directionDetailsImage: "view_cbb_5.jpg"
 directionDetailsTitle: "Get around Cochabamba"
 directionDetailsCards:
  - {title: "Airport", information: 'Jorge Wilstermann International Airport is conveniently located 6 Km. away from downtown Cochabamba. To-From airport information is available at <a href="http://www.sabsa.aero/aeropuerto-jorge-wilsterman/">airport website</a>.', title: "Airport"}
- - {title: "Public Transit", information: 'Cochabamba offers a very wide network of public transportation operated by transport federations regulated by the regional government. Several radio-cab companies offer safe and timely private transport services at affordable prices.'}
+ - {title: "Conference Buses", information: 'Special buses taking participants to the conferences are available. Check here for <a href="/buses.pdf">bus routes</a>'}
  # - {title: "Hotels", information: 'BCDE has arranged preferential rates with the following hotels: <br><a href="http://granhotelcochabamba.com.bo">Gran Hotel Cochabamba</a> <br> (&#9733 &#9733 &#9733 &#9733 &#9733), 45 USD/night breakfast buffet included. <br> <a href="http://www.hotelreginabolivia.com">Hotel Regina (Prado)</a> <br>(&#9733 &#9733 &#9733 &#9733), 35 USD/night breakfast buffet included. <br> <br> For both hotels the reservation code is 8BCDE'}
  - {title: "Hotels", information: 'BCDE recommends the following hotels: <br><br><a href="http://www.tolomahotel.com.com.bo">Hotel Toloma</a> <br> (&#9733 &#9733 &#9733 &#9733). <br><a href="http://www.hotelreginabolivia.com">Hotel Regina (Prado)</a> <br>(&#9733 &#9733 &#9733 &#9733) <br><a href="http://www.hotelreginabolivia.com">'}
 directionDetailsWideCards:
