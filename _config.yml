@@ -54,6 +54,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/fsd/", text: "FSD Workshop"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/buses.pdf", text: "Buses"}
  # - {permalink: "/workshops/", text: "Workshops"}
  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
  # - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
