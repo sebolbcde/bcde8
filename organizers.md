@@ -15,6 +15,7 @@ isStaticPost: true
 * Luis Castro (UPB, SEBOL)
 * Pablo Cuba Borda (Federal Reserve Board, SEBOL)
 * Carlos Gustavo Machicado (INESAD, SEBOL)
+* Joaquin Morales (UPB, SEBOL)
 * Oscar Molina (UPB, SEBOL, ABCE)
 * Beatriz Muriel (INESAD, SEBOL, ABCE)
 * Ricardo Nogales (UPB, SEBOL)

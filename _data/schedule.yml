@@ -42,7 +42,7 @@
     - {
 #    	startTime: "10:00",
 #    	endTime: "10:30",
-    	sessionIds: [001, 002, 003, 004]
+    	sessionIds: [001, 002, 003, 004],
     }
 # Lunch Break
     - {

@@ -51,8 +51,8 @@
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h6  align="left" class="slot-title" itemprop="name">{{ session.title }}</h6>
-                                        {% if session.description != null %}
-                                          <!-- <h6  align="left" class="slot-title" itemprop="name">{{ session.description }}</h6> -->
+                                        {% if session.location != null %}
+                                          <h6  align="left" class="slot-title" itemprop="name">{{ slot.location }}</h6>
                                         {% endif %}
                                         <h6 class="name">
                                             {% for speaker in site.data.speakers %}
