@@ -299,3 +299,7 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "-17.396416, -66.218217"
 hackathonMapCenterCoordinates: "-17.396416, -66.218217"
 hackathonMapMobileCenterCoordinates: "-17.396416, -66.218217"
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
