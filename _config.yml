@@ -57,12 +57,13 @@ navigationLinks:
  - {permalink: "/buses.pdf", text: "Buses"}
  # - {permalink: "/workshops/", text: "Workshops"}
  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
- # - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
+ # - {link: "http://www.sebol.org", text: "About SEBOL"}
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  # - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/organizers/", text: "Organizers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
+ - {link: "http://www.sebol.org", text: "SEBOL"}
 rightNavigationButtons:
  - {link: "/blog/registration", text: "Register"}
 
